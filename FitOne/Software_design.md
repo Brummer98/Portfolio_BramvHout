@@ -29,6 +29,10 @@ As for every project, requirements need to be setup so the proper functionalitie
 * Users could be able to send a message to one of their 'friends' on the platform ( Could )
 * Users could be able to schedule a training moment in their agenda and add friends to join them ( Could )
 
+#### Non-functional requirements
+* The process of loging in should not take any longer than 3 seconds after the button 'Login' has been pressed. ( Should )
+* When a button is being pressed, the function that belongs to that button click event should not take any longer than 2 seconds ( Should ) 
+
 ## Wireframes
 
 ## Architecture
