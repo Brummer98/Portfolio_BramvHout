@@ -37,7 +37,7 @@ As for every project, requirements need to be setup so the proper functionalitie
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://github.com/Brummer98/Portfolio_BramvHout/blob/f87082a24ec89a737242f2c520a0229c9b42bdbd/FitOneLogo.png "Logo Title Text 2"
 
 ## Architecture
 
