@@ -155,10 +155,13 @@ https://www.certificationcamps.com/why-choose-microsoft-sql-server/
 FitOne is my individual project and is a web based fitness and food tracking application where users are able to have insights into their daily food consumption and are also able to see how many caloriës they can eat every day. You can add food easily and see directly how many carbs, protein and fat it contains.
 
 ### Sprints
-I divided the project over an estimated 5 sprints to figure everything out and have a fullstack webapplication by the end of it. That meant planning was necessary to achieve this goal. Since i knew nothing about the framework ***React JS*** i started doing some research in the first sprint. I also did some research on the backend of the webpage, which i made in ***Node.js***. In the second sprint, things came alive. I figured out how to use React JS to create a beautiful frontend webpage for my project. 
+I divided the project over an estimated 5 sprints to figure everything out and have a fullstack webapplication by the end of it. That meant planning was necessary to achieve this goal. Since i knew nothing about the framework ***React JS*** i started doing some research in the first sprint. I also did some research on the backend of the webpage, which i made in ***Node.js***. In the second sprint, things came alive. I figured out how to use React JS to create a beautiful frontend webpage for my project. We are now reaching the end of the second sprint and i'll be focussing on getting the backed working in the next sprints. 
 
-![alt text][logo]
+![alt text][logo1]
 
-[logo]: FitOneLogo.png "FitOne webpage"
+[logo1]: FitOne-Dashboard.png "FitOne webpage"
+
+### Software design
+For the FitOne application i have made several user stories, requirements and a software architecture diagram. Documentation like such can be found on the FitOne software design directory. This section is part of proving my proficiency at learning outcome 6: Requirements and Design.
 
 ## WoC ( Group Project )
