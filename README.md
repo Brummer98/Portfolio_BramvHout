@@ -148,5 +148,8 @@ https://www.certificationcamps.com/why-choose-microsoft-sql-server/
 
 
 ## FitOne ( Individual Project )
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 ## WoC ( Group Project )
