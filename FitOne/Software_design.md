@@ -34,10 +34,27 @@ As for every project, requirements need to be setup so the proper functionalitie
 * When a button is being pressed, the function that belongs to that button click event should not take any longer than 2 seconds ( Should ) 
 
 ## Wireframes
-Reference-style: 
+For designing the FitOne pages, i used a piece of software called ***Draw.io***. Since the wireframes are only an estimate of what i should look like, and not what it directly needs to look like, Draw.io is a perfectly fine program to use.
+
+###### Creating account page
 ![alt text][logo]
 
-[logo]: https://github.com/Brummer98/Portfolio_BramvHout/blob/f87082a24ec89a737242f2c520a0229c9b42bdbd/FitOneLogo.png "Logo Title Text 2"
+[logo]: https://github.com/Brummer98/Portfolio_BramvHout/blob/2b5a1e26542064af7816b015cde29bbbd6644d34/img/FitOne%20-%20CreateAccount.png "Create account page FitOne"
+
+###### Login page
+![alt text1][logo1]
+
+[logo1]: https://github.com/Brummer98/Portfolio_BramvHout/blob/2b5a1e26542064af7816b015cde29bbbd6644d34/img/FitOne%20-%20LoginUser.png "Login account page FitOne"
+
+###### Dashboard home page
+![alt text2][logo2]
+
+[logo2]: https://github.com/Brummer98/Portfolio_BramvHout/blob/2b5a1e26542064af7816b015cde29bbbd6644d34/img/FitOne%20-%20Dashboard.png "Dashboard page FitOne"
+
+###### Personal page
+![alt text3][logo3]
+
+[logo3]: https://github.com/Brummer98/Portfolio_BramvHout/blob/2b5a1e26542064af7816b015cde29bbbd6644d34/img/FitOne%20-%20Personal%20page.png "Personal page FitOne"
 
 ## Architecture
 
