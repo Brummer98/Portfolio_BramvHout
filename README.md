@@ -150,6 +150,15 @@ https://www.certificationcamps.com/why-choose-microsoft-sql-server/
 ## FitOne ( Individual Project )
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: FitOneLogo.png "FitOne logo"
+
+FitOne is my individual project and is a web based fitness and food tracking application where users are able to have insights into their daily food consumption and are also able to see how many caloriës they can eat every day. You can add food easily and see directly how many carbs, protein and fat it contains.
+
+### Sprints
+I divided the project over an estimated 5 sprints to figure everything out and have a fullstack webapplication by the end of it. That meant planning was necessary to achieve this goal. Since i knew nothing about the framework ***React JS*** i started doing some research in the first sprint. I also did some research on the backend of the webpage, which i made in ***Node.js***. In the second sprint, things came alive. I figured out how to use React JS to create a beautiful frontend webpage for my project. 
+
+![alt text][logo]
+
+[logo]: FitOneLogo.png "FitOne webpage"
 
 ## WoC ( Group Project )
