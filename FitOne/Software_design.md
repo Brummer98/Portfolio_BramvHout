@@ -34,6 +34,10 @@ As for every project, requirements need to be setup so the proper functionalitie
 * When a button is being pressed, the function that belongs to that button click event should not take any longer than 2 seconds ( Should ) 
 
 ## Wireframes
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 ## Architecture
 
