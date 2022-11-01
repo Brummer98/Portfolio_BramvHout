@@ -62,6 +62,10 @@ Caching shall be applied to resources when applicable, and then these resources 
 Layered system
 In REST you should make use of functionalitys on different servers. So APIs could run on server A, while data can be stored on server B and request authentication can be processed on server C.
 
+### Ethics
+I did some essential research on the Ethics topic. Ethics is where you recognize and take into account cultural differences when working with multi-size teams, and are aware of ethical aspects in software development.
+[Click here to see the Ethics file]()
+
 * Frontend framework: React JS
 * Component design
 * Effective learning
