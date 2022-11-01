@@ -1,6 +1,13 @@
 # Portfolio: Bram van Hout @ Fontys IT - Eindhoven
 This is the portfolio of Software student IT ***Bram van Hout***.
 
+## Reader's Guide for Semester 3 Portfolio
+Written by: ***Bram van Hout***\
+For course(s): ***S-DB-IPS3 & S-DB-GPS3***\
+Class: ***DB-03***\
+Coaches: ***Marc van Grootel, Hans van Heumen***\
+Date: ***03-10-2022***
+
 ## Table of contents
 * [Introduction](#introduction)
 * [Learning outcomes](#learning-outcomes)
@@ -101,51 +108,8 @@ https://www.alliancetek.com/blog/post/2015/06/01/reasons-why-should-you-choose-m
 
 It’s also great with quick deployment. Applications build with the framework can be deployed quickly on any microsoft server. And overal, the software is fairly easy to use.
 
-#### Features of ASP.Net Core
-Asynchronous programming 
-This framework supports utilizing asynchronous programming patterns. ASP.Net core is faster due to its extensive use of asynchronous patterns within the new MVC and Kestrel framework.
-Multiple environment and development mode
-It is one of the best features of this framework. It enables developers to distinguish parts of your code for their behaviour in staging, development, production, etc.  
-###### Action Filter
-ASP.Net Core provides great support for extensible filters. Developers consider ASP.Net as the best backend for React for implementing filter functionality that can be applied to an entire controller or action without modifying the action itself.
-###### Globalization and Localization
-With ASP. Net Core framework, it is easier to localize numbers, dates, and text within your web application. Localization is critical if you want your application to be used across the globe. 
-Advantages of ASP.Net Core ASP.Net Core is scalable and faster and designed to work with today’s modern libraries and language. It supports WPF and Windows Forms which results in developers can build modern Windows client applications. This framework can work on multiple platforms such as Windows, Linux and Mac operating systems. ASP.Net Core is the best backend with React if you want to use several versions of .NET in the same project side by side.
-Disadvantages of ASP.Net Core ASP.Net Core lacks some of the basic security features that other frameworks offer. The ASP.Net Core framework tends to follow the Windows form, which is too similar and can end up in a few awkward moments while developing your applications.
-
-Source:
-https://appwrk.com/best-backend-for-react-in-2022#:~:text=React%20can%20often%20be%20paired,of%20data%20and%20heavy%20traffic
-
 ### Database – Microsoft SQL Server
 For me this was an easy decision. I’ve used SQL Server since I started programming for the first time. In comparison to other database systems, I find this one to be the most easy to use. Next to SQL Server, I did do some research on MongoDB. But not using any sql statements seems kind of weird to me. So, naturally I chose SQL Server for this project.
-
-#### Benefits of Microsoft SQL Server
-###### Ensures Security of Your Data
-MS-SQL Server gives you the advantage of working with a table structure based on rows, which allows the connection of correlated data elements and functions. Many other Database Management Systems (DBMS) are less secure, while MS-SQL enables you to maintain the security, integrity and consistency of the data you’re working with. This is especially important when customer information is on the line — they need to know they can trust your security.
-###### Optimizes Data Storage and Accuracy
-This gives you the benefit of getting rid of the need to duplicate data storage within a database when you are working from a different computer. 
-
-Other advantages of this structure are that it provides integrity when referencing from the database. There are also other constraints related to integrity that help you maintain data accuracy, collectively known as the ACID properties.
- 
-All of these features ensure reliability on the processing of database transactions. In order to do that, Microsoft SQL architecture is composed of some key elements that constitutes the heart and soul of the system. Some of those elements are:
--	Transact- SQL (T-SQL): Enables you to program queries and commands.
--	Tabular Data Stream: A protocol that allows you to connect SQL Server clients to database servers.
--	SQL Server Database Engine: This helps you to manage processing and storage of data in addition to data security.
-###### Simple Installation and Automatic Updates
-The advantage this implies is that you don’t require a special toolkit to run the installation. The system updates are detected automatically and downloaded without any input from the operator.
-Other components such as analytical services can be installed after the initial installation if you so desire. This means you can customize your SQL server to meet the needs of your business.
-This allows you to have a simple, cheaper, and far less complex installation process that will save you a lot of time and headaches in the future.
-###### Optimized Security Features
-SQL Servers use Policy-Based Management to keep your security policies compliant and updated. This means that only authorized personnel will be able to access the database. It also allows having security events and audits automatically written for file logging.
-The Microsoft SQL server’s data compression feature is built in, and encryption enables you to modify programs for data encryption. The server also pairs access control with efficient and secure permission management.
-###### Simple Management and Maintenance
-SQL servers boast effective data management and data mining tools which, in combination with disk partitioning, allows you the benefit of the best maintenance available.
-
-With training, maintenance is easy to perform, including backups and recovery. Effective data management practices will ensure that your data is available and recoverable in the event of data loss elsewhere.
-
-Source:
-https://www.certificationcamps.com/why-choose-microsoft-sql-server/
-
 
 ## FitOne ( Individual Project )
 ![alt text][logo]
