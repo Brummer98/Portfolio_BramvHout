@@ -64,7 +64,7 @@ In REST you should make use of functionalitys on different servers. So APIs coul
 
 ### Ethics
 I did some essential research on the Ethics topic. Ethics is where you recognize and take into account cultural differences when working with multi-size teams, and are aware of ethical aspects in software development.
-[Click here to see the Ethics file]()
+[Click here to see the Ethics file](https://github.com/Brummer98/Portfolio_BramvHout/blob/551a0c5c608b7f5454c78b26447701734ef2d620/Research/Ethics.md)
 
 * Frontend framework: React JS
 * Component design
