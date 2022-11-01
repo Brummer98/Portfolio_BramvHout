@@ -1,5 +1,5 @@
 # Portfolio: Bram van Hout @ Fontys IT - Eindhoven
-This is the portfolio of Software student IT ***Bram van Hout***.
+This is the portfolio written by semester 3 Software student of Fontys IT ***Bram van Hout***.
 
 ## Reader's Guide for Semester 3 Portfolio
 Written by: ***Bram van Hout***\
