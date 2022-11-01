@@ -46,11 +46,8 @@ I did some essential research on the Ethics topic. Ethics is where you recognize
 [Click here to see the Ethics file](https://github.com/Brummer98/Portfolio_BramvHout/blob/551a0c5c608b7f5454c78b26447701734ef2d620/Research/Ethics.md)
 
 ### Effective Learning
-I always had some trouble trying to plan things during the day in order to actually get some work done. On the internet i found a video of a man showing how to effectivly schedule active study moments during the day. One solution was to split your study hours over the day with enough time for some breaks. You can't keep your focus hours long on a single subject. The video thought me to split 6 hours of study time over the day, into three moments of 2 hours each. There should be a break of 30 minutes after each study moment to maximize the working effect. Another thing is to write down all the things your having trouble with, for example:
-* Javascript
-* .NET
-
-You can then give more focus and time into the subjects that are harder for you to understand, sorta like prioritizing things.
+I also did some research on something that i thought was neccesary especially for me, since i've always had some trouble planning my work.\
+[Click here to see the Effective Learning File](https://github.com/Brummer98/Portfolio_BramvHout/blob/b68654cde0bfd305543b72c95aa5af8d049fc97d/Research/EffectiveLearning.md)
 
 ### Frontend framework: React JS
 ### Component design
@@ -62,13 +59,13 @@ You can then give more focus and time into the subjects that are harder for you 
 ## Courses
 ### React JS Crash Course
 Since i was quit new with React JS, i decided to look up on the internet for a simple tutorial to inform me about the most basic functionalities and methods of React.
-After searching for a while, i came across a youtube video that explained the entire basic React environment and it's functionalities.
+After searching for a while, i came across a youtube video that explained the entire basic React environment and it's functionalities.\
 Source: 
 https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=839s
 
 ### LinkedInLearning
 After watching the React JS Crash Course, i discovered that trough the portal of Fontys, i could get a FREE account for LinkedInLearning. Which was great news, because 
-LinkedIn is a very powerful platform which shows your skills, studies and working experience on the web. Trough completing the LinkedInLearning React JS Essential training, a certificate was added to my profile! Which is a very good thing, so my connections can see that i have the necessary experience with React JS.
+LinkedIn is a very powerful platform which shows your skills, studies and working experience on the web. Trough completing the LinkedInLearning React JS Essential training, a certificate was added to my profile! Which is a very good thing, so my connections can see that i have the necessary experience with React JS.\
 Source:
 https://www.linkedin.com/learning/react-js-essential-training-14836121/building-modern-user-interfaces-with-react?autoplay=true&u=2095956
 
