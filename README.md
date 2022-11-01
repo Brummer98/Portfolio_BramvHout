@@ -66,13 +66,19 @@ In REST you should make use of functionalitys on different servers. So APIs coul
 I did some essential research on the Ethics topic. Ethics is where you recognize and take into account cultural differences when working with multi-size teams, and are aware of ethical aspects in software development.
 [Click here to see the Ethics file](https://github.com/Brummer98/Portfolio_BramvHout/blob/551a0c5c608b7f5454c78b26447701734ef2d620/Research/Ethics.md)
 
-* Frontend framework: React JS
-* Component design
-* Effective learning
-* UX design
-* Bootstrap 5: Grid System 
-* Node.js backend
-* Agile methods
+### Effective Learning
+I always had some trouble trying to plan things during the day in order to actually get some work done. On the internet i found a video of a man showing how to effectivly schedule active study moments during the day. One solution was to split your study hours over the day with enough time for some breaks. You can't keep your focus hours long on a single subject. The video thought me to split 6 hours of study time over the day, into three moments of 2 hours each. There should be a break of 30 minutes after each study moment to maximize the working effect. Another thing is to write down all the things your having trouble with, for example:
+* Javascript
+* .NET\
+
+You can then give more focus and time into the subjects that are harder for you to understand, sorta like prioritizing things.
+
+### Frontend framework: React JS
+### Component design
+### UX design
+### Bootstrap 5: Grid System 
+### Node.js backend
+### Agile methods
 
 ## Courses
 ### React JS Crash Course
