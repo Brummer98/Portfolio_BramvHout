@@ -58,6 +58,15 @@ For designing the FitOne pages, i used a piece of software called ***Draw.io***.
 
 ## Architecture
 ###### Context diagram
+![alt text4][logo4]
+
+[logo4]: https://github.com/Brummer98/Portfolio_BramvHout/blob/4818492d09fd2a9fadbbc278ea149ff1c577891c/img/Context%20diagram%20-%20FitOne.png "Context diagram FitOne"
 ###### Container diagramm
+![alt text5][logo5]
+
+[logo5]: https://github.com/Brummer98/Portfolio_BramvHout/blob/4818492d09fd2a9fadbbc278ea149ff1c577891c/img/Container%20diagram%20-%20FitOne.png "Container diagram FitOne"
 ###### Component diagram
+![alt text6][logo6]
+
+[logo6]: https://github.com/Brummer98/Portfolio_BramvHout/blob/4818492d09fd2a9fadbbc278ea149ff1c577891c/img/Component%20diagram%20-%20FitOne.png "Component diagram FitOne"
 ## API
