@@ -1,6 +1,6 @@
-### Agile methods
+## Agile methods
 
-#### Table of contents
+### Table of contents
 * [What is agile?](#what-is-agile)
 * [What agile methods are there?](#what-agile-methods-are-there)
 * [Advantages and disadvantages of the methods](#advantages-and-disadvantages-of-the-methods)
@@ -79,6 +79,9 @@ Agile is an iterative approach to project management and software development th
 * It might not work best for geographically scattered teams, because of the constant need to communicate and reflect
 * Planning and development are not dependent on requirements
 * It is ideal for experienced, autonomous teams
+
+#### Method i chose
+For the individual project as wel as the group project, i've decided to go with ***SCRUM***. The reason for picking SCRUM is because i was already familiair with the method. I've worked with it before and it has always been a very good way of agile implementation into my projects. Ofcourse i looked into other methods as wel, but SCRUM is the one for me. The main reason being working in sprints and actually seeing the progress along the way. Setting up reasonable goals every sprint and achieving them. Also, all members of the project can follow eachothers work, which is great! This method also allows to re-prioritize items within the project. So you are able to change what is important to the project and work on further with that. 
 
 #### Sources
 https://www.atlassian.com/agile \
