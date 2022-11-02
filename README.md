@@ -112,7 +112,7 @@ I divided the project over an estimated 5 sprints to figure everything out and h
 
 ![alt text][logo1]
 
-[logo1]: https://github.com/Brummer98/Portfolio_BramvHout/blob/619cb818cae5127c40a393ec811ce160fcbb2a86/img/FitOne-Dashboard.png "FitOne webpage"
+[logo1]: https://github.com/Brummer98/Portfolio_BramvHout/blob/8d235f6631a0a64584cff98ca346568f21c3bb68/img/FitOne-Dashboard.png "FitOne webpage"
 
 ### SCRUM
 I've made use of the SCRUM framework for this project and chose GitHub - projects as the tool to help me manage this process.
