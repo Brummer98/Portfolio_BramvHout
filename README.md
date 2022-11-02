@@ -37,6 +37,15 @@ The learning outcomes for this semester are based on a ***A(ssociate)D(egree)***
 | 8 | Professional | You act in a professional manner during software development and learning | Professional manner: You develop software as a team effort according to a prescribed software methodology and following team agreements. You are able to track your work progress and communicate your progress with the team. You  independently recognize and decide where your knowledge falls short to solve a software problem and  communicate which new knowledge and skills you need to learn. |
 
 ## Research
+
+### Agile methods
+For this semester i chose for both the projects to use the agile method called SCRUM. I did some research on why to use SCRUM for this type of project and what other methods there are to choose from and what theire benefits are. This product helps prove my proficiency at learning outcome 3: ***Agile method***.\
+[Click here to see the Agile Methods file](https://github.com/Brummer98/Portfolio_BramvHout/blob/0549f45ee7f7925c7481112c40660ee89e65260f/Research/AgileMethods.md)
+
+### Business processes
+Some research was done on business processes for helping improve my proficiency on learning outcome 7: ***Business processes***.\
+[Click here to see the Business process file](https://github.com/Brummer98/Portfolio_BramvHout/blob/2ba6388bc6a208f84719551b5d913a6555ed3554/Research/BusinessProcesses.md)
+
 ### Distributed Software Systems
 One thing that i started doing research on was ***Distrubuted Software Systems***\
 [Click here to see the DSS research](https://github.com/Brummer98/Portfolio_BramvHout/blob/de2fdcb2adbf4aeb9cbd4b0e297f46bb86a2d636/Research/DSS.md)
@@ -48,17 +57,6 @@ I did some essential research on the Ethics topic. Ethics is where you recognize
 ### Effective Learning
 I also did some research on something that i thought was neccesary especially for me, since i've always had some trouble planning my work.\
 [Click here to see the Effective Learning file](https://github.com/Brummer98/Portfolio_BramvHout/blob/b68654cde0bfd305543b72c95aa5af8d049fc97d/Research/EffectiveLearning.md)
-
-### Agile methods
-For this semester i chose for both the projects to use the agile method called SCRUM. I did some research on why to use SCRUM for this type of project and what other methods there are to choose from and what theire benefits are. This product helps prove my proficiency at learning outcome 3: ***Agile method***.\
-[Click here to see the Agile Methods file](https://github.com/Brummer98/Portfolio_BramvHout/blob/0549f45ee7f7925c7481112c40660ee89e65260f/Research/AgileMethods.md)
-
-### Business processes
-Some research was done on business processes for helping improve my proficiency on learning outcome 7: ***Business processes***.\
-[Click here to see the Business process file](https://github.com/Brummer98/Portfolio_BramvHout/blob/2ba6388bc6a208f84719551b5d913a6555ed3554/Research/BusinessProcesses.md)
-
-### Frontend framework: React JS
-### UX design
 
 ## Courses
 ### React JS Crash Course
