@@ -10,7 +10,8 @@ Agile is an iterative approach to project management and software development th
 4. Lean Development
 5. Crystal
 
-#### What are the advantages of the methods?
+#### Advantages and disadvantages of the methods
+
 ##### SCRUM
 ###### Advantages
 * Team motivation is good because programmers want to meet the deadline for every sprint
