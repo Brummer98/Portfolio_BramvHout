@@ -1,4 +1,15 @@
 ## Business processes
+This research was done for improving my proficiency for learning outcome 7: ***Business processes***.
+
+### Table of contents
+* [What is a business process?](#what-is-a-business-process)
+* [The importance of a business process](#the-importance-of-a-business-process)
+* [Key reasons to have well defined business processes](#key-reasons-to-have-well-defined-business-processes)
+* [An example of a business process](#an-example-of-a-business-process)
+* [The seven steps of the business process lifecycle](#the-seven-steps-of-the-business-process-lifecycle)
+* [Userstory mapping](#userstory-mapping)
+* [Story mapping 3 types of actions](#story-mapping-3-types-of-actions)
+* [Sources](#sources)
 
 ### What is a business process?
 A business process is a series of steps performed by a group of stakeholders to achieve a concrete goal. Each step in a business process denotes a task that is assigned to a participant. It is the fundamental building block for several related ideas such as business process management, process automation, etc
