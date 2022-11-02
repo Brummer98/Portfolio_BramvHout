@@ -53,11 +53,12 @@ I also did some research on something that i thought was neccesary especially fo
 For this semester i chose for both the projects to use the agile method called SCRUM. I did some research on why to use SCRUM for this type of project and what other methods there are to choose from and what theire benefits are. This product helps prove my proficiency at learning outcome 3: Agile method.\
 [Click here to see the Agile Methods file](https://github.com/Brummer98/Portfolio_BramvHout/blob/0549f45ee7f7925c7481112c40660ee89e65260f/Research/AgileMethods.md)
 
+### Business processes
+Some research was done on business processes for helping improve my proficiency on learning outcome 7: ***Business processes***.\
+[Click here to see the Business process file]()
+
 ### Frontend framework: React JS
-### Component design
 ### UX design
-### Bootstrap 5: Grid System 
-### Node.js backend
 
 ## Courses
 ### React JS Crash Course
