@@ -35,3 +35,21 @@ This is then followed by a long employee onboarding process.
 5. Implement the process
 6. Monitor the results
 7. Repeat
+
+### Userstory mapping
+User-story mapping (also known as user-story maps, story maps, and story mapping) is a lean UX-mapping method, often practiced by Agile teams, that uses sticky notes and sketches to outline the interactions that the team expects users to go through to complete their goals in a digital product
+
+### Story mapping 3 types of actions
+A user-story map depicts 3 types of actions at different granularity: activities (the most general actions), steps, and details (the most specific actions). User activities and steps display horizontally across the top of the map, and the details stack vertically underneath their respective steps in priority order.
+
+1. ***Activities*** represent the high-level tasks that users aim to complete in the digital product — for example, Check account balance or Deposit a check. Depending on the type of application or website you're creating, you may only have a few high-level activities. These can display in sequential order or in parallel if multiple paths for various user types exist. Exploratory research about top user tasks should inform this level of the map.
+2. ***Steps*** sit directly underneath activities and also display in sequential order. They represent the specific subtasks that users will go through in the product to complete the activity above. For example, the activity, Deposit a check can be deconstructed into the steps of Enter mobile deposit details, Sign check, Photograph check, Submit deposit, and Confirm deposit.
+3. ***Details*** are the third level of the story map and describe the lowest-granularity interactions that the team anticipates users will experience to complete the step above. For example, Enter username or email and Enter password appear as two separate details underneath the Log in step.
+
+![Userstory mapping](https://www.datocms-assets.com/17507/1611084840-usermapping2.png?fit=max&fm=webp&q=60&w=736)
+
+### Sources
+https://www.heflo.com/blog/bpm/it-business-processes/ \
+https://kissflow.com/workflow/bpm/business-process/#business%20process \
+https://www.appvizer.co.uk/magazine/operations/project-management/user-story-mapping \
+https://www.nngroup.com/articles/user-story-mapping/
