@@ -35,6 +35,8 @@ Agile is an iterative approach to project management and software development th
 * The segmentation of the project and the search for the agility of development can sometimes lead the team to lose track of the project as a whole, focusing on a single part
 * Every developer role may not be well defined, resulting in some confusion amongst team members
 
+ ![SCRUM](https://www.xpand-it.com/wp-content/uploads/2022/03/Scrum.png)
+
 ##### Kanban
 ###### Advantages
 * Ability to view all the tasks under a single project (by Completed, In Progress or In testing, for example) using the simple concept of “Cards”
@@ -45,6 +47,8 @@ Agile is an iterative approach to project management and software development th
 ###### Disadvantages
 * It’s possible for team members to misinterpret the information shown on the Kanban Board, especially when it is shown as outdated
 * Since there are no timeframes in Kanban, you can face time-related problems, such as delays, at each and every stage
+
+![Kanban](https://www.xpand-it.com/wp-content/uploads/2022/03/Kanban.png)
 
 ##### Extreme Programming (XP)
 ###### Advantages
@@ -58,6 +62,8 @@ Agile is an iterative approach to project management and software development th
 * This framework may not work at its best if all the team members are not situated in the same geographical area
 * In XP projects, a registry of possible errors is not always maintained, and this lack of monitoring can lead to similar bugs in the future
 
+![Extreme programming](https://www.xpand-it.com/wp-content/uploads/2022/03/Extreme-Programming-XP.png)
+
 ##### Lean Development
 ###### Advantages
 * Allows the team to delete superfluous activity, therefore saving time and money
@@ -68,6 +74,8 @@ Agile is an iterative approach to project management and software development th
 * Dependent on the development team’s ability and on following “Lean principles”, which requires extremely dedicated and talented developers
 * It is easier to lose focus since various tasks are divided into a number of elements
 * Requires some documents, in particular on the characteristics of the business that is the subject of the work. Otherwise, there is a risk that the development may be carried out incorrectly and present errors
+
+![Lean development](https://www.xpand-it.com/wp-content/uploads/2022/03/Lean.png)
 
 ##### Crystal
 ###### Advantages
@@ -80,6 +88,8 @@ Agile is an iterative approach to project management and software development th
 * It might not work best for geographically scattered teams, because of the constant need to communicate and reflect
 * Planning and development are not dependent on requirements
 * It is ideal for experienced, autonomous teams
+
+![Crystal](https://www.xpand-it.com/wp-content/uploads/2022/03/Crystal.png)
 
 #### Method i chose
 For the individual project as wel as the group project, i've decided to go with ***SCRUM***. The reason for picking SCRUM is because i was already familiair with the method. I've worked with it before and it has always been a very good way of agile implementation into my projects. Ofcourse i looked into other methods as wel, but SCRUM is the one for me. The main reason being working in sprints and actually seeing the progress along the way. Setting up reasonable goals every sprint and achieving them. Also, all members of the project can follow eachothers work, which is great! This method also allows to re-prioritize items within the project. So you are able to change what is important to the project and work on further with that. 
