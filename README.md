@@ -6,7 +6,7 @@ Written by: ***Bram van Hout***\
 For course(s): ***S-DB-IPS3 & S-DB-GPS3***\
 Class: ***DB-03***\
 Coaches: ***Marc van Grootel, Hans van Heumen***\
-Date: ***03-10-2022***
+Date: ***03-11-2022***
 
 ## Table of contents
 * [Introduction](#introduction)
