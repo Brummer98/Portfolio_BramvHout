@@ -71,5 +71,5 @@ Agile is an iterative approach to project management and software development th
 * It is ideal for experienced, autonomous teams
 
 #### Sources
-https://www.atlassian.com/agile
-https://www.xpand-it.com/blog/top-5-agile-methodologies/
+https://www.atlassian.com/agile\
+https://www.xpand-it.com/blog/top-5-agile-methodologies/\
