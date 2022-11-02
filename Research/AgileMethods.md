@@ -1,5 +1,15 @@
 ### Agile methods
 
+#### Table of contents
+* [What is agile?](#what-is-agile)
+* [What agile methods are there?](#what-agile-methods-are-there)
+* [Advantages and disadvantages of the methods](#advantages-and-disadvantages-of-the-methods)
+* [SCRUM](#scrum)
+* [Kanban](#kanban)
+* [Extreme Programming](#extreme-programming-xp)
+* [Lean development](#lean-development)
+* [Crystal](#crystal)
+
 #### What is agile?
 Agile is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer headaches. Instead of betting everything on a "big bang" launch, an agile team delivers work in small, but consumable, increments. Requirements, plans, and results are evaluated continuously so teams have a natural mechanism for responding to change quickly.
 
