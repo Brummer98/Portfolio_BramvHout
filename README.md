@@ -49,12 +49,14 @@ I did some essential research on the Ethics topic. Ethics is where you recognize
 I also did some research on something that i thought was neccesary especially for me, since i've always had some trouble planning my work.\
 [Click here to see the Effective Learning File](https://github.com/Brummer98/Portfolio_BramvHout/blob/b68654cde0bfd305543b72c95aa5af8d049fc97d/Research/EffectiveLearning.md)
 
+### Agile methods
+For this semester i chose for both the projects to use the agile method called SCRUM. I did some research on why to use SCRUM for this type of project and what other methods there are to choose from and what theire benefits are. This product helps prove my proficiency at learning outcome 3: Agile method.
+
 ### Frontend framework: React JS
 ### Component design
 ### UX design
 ### Bootstrap 5: Grid System 
 ### Node.js backend
-### Agile methods
 
 ## Courses
 ### React JS Crash Course
