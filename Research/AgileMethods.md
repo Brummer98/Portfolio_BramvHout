@@ -1,4 +1,5 @@
 ## Agile methods
+This is a research document that was written to understand what types of agile methods there are to use within a project. This document defines what methods there are and all of their (dis)advantages. It also shows what method i chose for my project(s) and what the reason is for that. By doing this kind of research, i help improve my proficincy for learning outcome 3: Agile methods. 
 
 ### Table of contents
 * [What is agile?](#what-is-agile)
