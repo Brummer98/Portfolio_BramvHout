@@ -42,7 +42,7 @@ One thing that i started doing research on was ***Distrubuted Software Systems**
 [Click here to see the DSS research](https://github.com/Brummer98/Portfolio_BramvHout/blob/de2fdcb2adbf4aeb9cbd4b0e297f46bb86a2d636/Research/DSS.md)
 
 ### Ethics
-I did some essential research on the Ethics topic. Ethics is where you recognize and take into account cultural differences when working with multi-size teams, and are aware of ethical aspects in software development. I have made an analysis and did some additional research to increase proficiency at learning outcome 5: Cultural differences and ethics.\
+I did some essential research on the Ethics topic. Ethics is where you recognize and take into account cultural differences when working with multi-size teams, and are aware of ethical aspects in software development. I have made an analysis and did some additional research to increase proficiency at learning outcome 5: ***Cultural differences and ethics***.\
 [Click here to see the Ethics file](https://github.com/Brummer98/Portfolio_BramvHout/blob/551a0c5c608b7f5454c78b26447701734ef2d620/Research/Ethics.md)
 
 ### Effective Learning
@@ -50,12 +50,12 @@ I also did some research on something that i thought was neccesary especially fo
 [Click here to see the Effective Learning file](https://github.com/Brummer98/Portfolio_BramvHout/blob/b68654cde0bfd305543b72c95aa5af8d049fc97d/Research/EffectiveLearning.md)
 
 ### Agile methods
-For this semester i chose for both the projects to use the agile method called SCRUM. I did some research on why to use SCRUM for this type of project and what other methods there are to choose from and what theire benefits are. This product helps prove my proficiency at learning outcome 3: Agile method.\
+For this semester i chose for both the projects to use the agile method called SCRUM. I did some research on why to use SCRUM for this type of project and what other methods there are to choose from and what theire benefits are. This product helps prove my proficiency at learning outcome 3: ***Agile method***.\
 [Click here to see the Agile Methods file](https://github.com/Brummer98/Portfolio_BramvHout/blob/0549f45ee7f7925c7481112c40660ee89e65260f/Research/AgileMethods.md)
 
 ### Business processes
 Some research was done on business processes for helping improve my proficiency on learning outcome 7: ***Business processes***.\
-[Click here to see the Business process file]()
+[Click here to see the Business process file](https://github.com/Brummer98/Portfolio_BramvHout/blob/2ba6388bc6a208f84719551b5d913a6555ed3554/Research/BusinessProcesses.md)
 
 ### Frontend framework: React JS
 ### UX design
