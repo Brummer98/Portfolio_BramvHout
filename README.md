@@ -52,8 +52,8 @@ One thing that i started doing research on was ***Distrubuted Software Systems**
 
 ### Software and design
 Because there are so many different front- and backend frameworks, some research seemed necessary. By doing this kind of research, i help improve my 
-proficieny for learning outcome 6: ***Software and design***. \
-[Click here to see the Software and design file]()
+proficieny for learning outcome 6: ***Requirements and design***. \
+[Click here to see the Software and design file](https://github.com/Brummer98/Portfolio_BramvHout/blob/8fae5cf9149008878e0721cfb801b53174c217c9/Research/UXdesign.md)
 
 ### Ethics
 I did some essential research on the Ethics topic. Ethics is where you recognize and take into account cultural differences when working with multi-size teams, and are aware of ethical aspects in software development. I have made an analysis and did some additional research to increase proficiency at learning outcome 5: ***Cultural differences and ethics***.\
