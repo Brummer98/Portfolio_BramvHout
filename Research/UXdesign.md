@@ -93,6 +93,9 @@ Then if u wanted any type of component on your page, you could easily do that by
 And finally you'd have to configure the global files that Bootstrap offers, like so:
 ![Global packages](https://github.com/Brummer98/Portfolio_BramvHout/blob/ba6972f2ac7ce4d7c2823c4fda445c6ac06328d1/img/BT_3.png)
 
+### Learning outcome 6: ***Software and design***
+By doing this kind of research on different types of frameworks and toolkits, i help improve my proficiency for learning outcome 6: ***Software and design***.
+
 ### Sources
 https://www.monocubed.com/blog/best-front-end-frameworks/ \
 https://www.gillz.nl/kennisbank/front-end-framework/#:~:text=Een%20front%2Dend%20framework%20geeft,Twitter)%20Bootstrap%20en%20Zurb%20Foundation \
