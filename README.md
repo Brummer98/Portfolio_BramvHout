@@ -44,7 +44,7 @@ For this semester i chose for both the projects to use the agile method called S
 
 ### Business processes
 Some research was done on business processes for helping improve my proficiency on learning outcome 7: ***Business processes***.\
-[Click here to see the Business process file](https://github.com/Brummer98/Portfolio_BramvHout/blob/2ba6388bc6a208f84719551b5d913a6555ed3554/Research/BusinessProcesses.md)
+[Click here to see the Business process file](https://github.com/Brummer98/Portfolio_BramvHout/blob/26ca0b6b92dbda362eecbab49bee06825179f34b/Research/BusinessProcesses.md)
 
 ### Distributed Software Systems
 One thing that i started doing research on was ***Distrubuted Software Systems***\
