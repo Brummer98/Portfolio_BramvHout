@@ -136,6 +136,8 @@ For the FitOne application i have made several user stories, requirements and a 
 ### CI/CD
 ![CI/CD](https://www.mabl.com/hubfs/CICDBlog.png)
 
+As i´ve been working with 
+
 ### Progress
 So far i've only been working on the frontend of the project. The backend is something i want to start with when November starts. I still need to do some additional research on what database i'm going to use for the project. We have been working with SQL during the first and second semester, but now in the third, we need to up our game! Most of the students i know are working with a database client called ***MongoDB***. MongoDB helps you ***not*** to use any SQL in your project. There might be a change that i'm going to use MongoDB for my individual project. As for now, i will be using ***.NET*** for my backend layer. The last two weeks i've been working hard on my portfolio in order to give a nice view of my current position in this semester and the things i've learned.
 
