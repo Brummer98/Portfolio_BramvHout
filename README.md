@@ -139,7 +139,7 @@ For the FitOne application i have made several user stories, requirements and a 
 As i've been working with ***GitHub*** - Desktop version, i have been working with different branches. In the CI/CD image above, you can see ***release***
 and ***deploy***. By using GitHub desktop and managing multiple branches, i make use of CI/CD in that way. Working in one branch to test multiple pieces of code, whilst the other branch contains the final product. 
 
-![GitHub desktop: push to branch]()
+![GitHub desktop: push to branch](https://github.com/Brummer98/Portfolio_BramvHout/blob/4404fc9ea93533adc9399861fc9e5585817cceb2/img/GH_1.png)
 
 As seen in the above image, i've been pushing several new changes into my branch, proving a part of my proficiency for learning outcome 4: ***CI/CD***.
 
