@@ -2,6 +2,18 @@
 I've done some research on what kind of UX designs i could implement into my own project. I Actually started with researching what kind of frontend framework to use
 for the FitOne project. 
 
+### Table of contents
+* [What are frontend frameworks?](#what-are-frontend-frameworks)
+* [Frontend components](#frontend-components)
+* [Benefits of a frontend framework](#benefits-of-a-frontend-framework)
+* [Frontend frameworks i've looked into](#frontend-frameworks-ive-looked-into)
+* [React JS < My personal choice!](#react-js--my-personal-choice)
+* [Angular](#angular)
+* [Vue](#vue)
+* [Bootstrap and React JS](#bootstrap-with-react-js)
+* [Learning outcome 6: Requirements and design](#learning-outcome-6-requirements-and-design)
+* [Sources](#sources)
+
 ### What are frontend frameworks?
 A front end framework gives developers a nice selective set of elements to their availablity. With those elements they can easily and quickly create a frame for a 
 responsive website or webapplication.
