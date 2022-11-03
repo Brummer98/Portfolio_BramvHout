@@ -84,8 +84,14 @@ From constructing web and mobile applications to progressive web apps (PWA), it 
 
 ### Bootstrap with React JS
 Bootstrap, which is a frontend toolkit, was very easy to use with React JS. In previous projects where i did not use React JS, i did use Bootstrap to make my site more powerful and responsive. So naturally, i looked up if i could implement Bootstrap into my new project that was also using React JS. It was easy to install Bootstrap
-by using the ***NPM*** package manager like so:
-![Bootstrap install]()
+by using the ***NPM*** package manager like so: \
+![Bootstrap install](https://github.com/Brummer98/Portfolio_BramvHout/blob/ba6972f2ac7ce4d7c2823c4fda445c6ac06328d1/img/BT_1.png) 
+
+Then if u wanted any type of component on your page, you could easily do that by importing the component that u need, like so:
+![Bootstrap imports](https://github.com/Brummer98/Portfolio_BramvHout/blob/ba6972f2ac7ce4d7c2823c4fda445c6ac06328d1/img/BT_2.png) 
+
+And finally you'd have to configure the global files that Bootstrap offers, like so:
+![Global packages](https://github.com/Brummer98/Portfolio_BramvHout/blob/ba6972f2ac7ce4d7c2823c4fda445c6ac06328d1/img/BT_3.png)
 
 ### Sources
 https://www.monocubed.com/blog/best-front-end-frameworks/ \
