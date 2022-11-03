@@ -113,7 +113,7 @@ For me this was an easy decision. I’ve used SQL Server since I started program
 
 [logo]: https://github.com/Brummer98/Portfolio_BramvHout/blob/619cb818cae5127c40a393ec811ce160fcbb2a86/img/FitOneLogo.png "FitOne logo"
 
-FitOne is my individual project and is a web based fitness and food tracking application where users are able to have insights into their daily food consumption and are also able to see how many caloriës they can eat every day. You can add food easily and see directly how many carbs, protein and fat it contains.
+FitOne is my individual project and is a web based fitness and food tracking application where users are able to have insights into their daily food consumption and are also able to see how many caloriës they can eat every day. You can add food easily and see directly how many carbs, protein and fat it contains. To see the repository for FitOne, click [here](https://github.com/Brummer98/FitOne)
 
 ### Sprints
 I divided the project over an estimated 5 sprints to figure everything out and have a fullstack webapplication by the end of it. That meant planning was necessary to achieve this goal. Since i knew nothing about the framework ***React JS*** i started doing some research in the first sprint. I also did some research on the backend of the webpage, which i made in ***Node.js***. In the second sprint, things came alive. I figured out how to use React JS to create a beautiful frontend webpage for my project. We are now reaching the end of the second sprint and i'll be focussing on getting the backed working in the next sprints. 
