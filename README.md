@@ -58,6 +58,10 @@ I did some essential research on the Ethics topic. Ethics is where you recognize
 I also did some research on something that i thought was neccesary especially for me, since i've always had some trouble planning my work.\
 [Click here to see the Effective Learning file](https://github.com/Brummer98/Portfolio_BramvHout/blob/b68654cde0bfd305543b72c95aa5af8d049fc97d/Research/EffectiveLearning.md)
 
+## Feedpulse
+Ofcourse communciation with the stakeholder is very important. By communicating with the stakeholders, i help improve my proficiency for  learning outcome 8: ***Professional***. To see all the feedpulses that where covereden during this semester, çlick on the link below.\
+[Click here to see the feedpulse file]()
+
 ## Courses
 ### React JS Crash Course
 Since i was quit new with React JS, i decided to look up on the internet for a simple tutorial to inform me about the most basic functionalities and methods of React.
