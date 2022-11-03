@@ -50,6 +50,11 @@ Some research was done on business processes for helping improve my proficiency 
 One thing that i started doing research on was ***Distrubuted Software Systems***\
 [Click here to see the DSS research](https://github.com/Brummer98/Portfolio_BramvHout/blob/de2fdcb2adbf4aeb9cbd4b0e297f46bb86a2d636/Research/DSS.md)
 
+### Software and design
+Because there are so many different front- and backend frameworks, some research seemed necessary. By doing this kind of research, i help improve my 
+proficieny for learning outcome 6: ***Software and design***. \
+[Click here to see the Software and design file]()
+
 ### Ethics
 I did some essential research on the Ethics topic. Ethics is where you recognize and take into account cultural differences when working with multi-size teams, and are aware of ethical aspects in software development. I have made an analysis and did some additional research to increase proficiency at learning outcome 5: ***Cultural differences and ethics***.\
 [Click here to see the Ethics file](https://github.com/Brummer98/Portfolio_BramvHout/blob/551a0c5c608b7f5454c78b26447701734ef2d620/Research/Ethics.md)
