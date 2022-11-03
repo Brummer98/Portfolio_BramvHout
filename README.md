@@ -129,7 +129,7 @@ For the FitOne application i have made several user stories, requirements and a 
 [Click here to see the file](https://github.com/Brummer98/Portfolio_BramvHout/blob/f23e74d6b6584b8f885008f5124f792714fa5b60/FitOne/Software_design.md)
 
 ###### What i've learned 
-By creating the design document and going trough all of the elements within the document, i've learned several things:\
+By creating the design document and going trough all of the elements within the document, i've learned several things:
 * I've learned how to determine what requirements are important for the project to be written down, as well as splitting the requirements into functional- and non functional ones. I aslo managed to set priority to those requirements using MoSCoW.
 * I've also learned how to develop wireframes to create a view of how the pages roughly are going to look like when the project is finished.
 * I've learned how to create a architecture of the entire project, so you can see what kind of systems and other things are going to be connected to the system.
