@@ -40,32 +40,32 @@ The learning outcomes for this semester are based on a ***A(ssociate)D(egree)***
 
 ### Agile methods
 For this semester i chose for both the projects to use the agile method called SCRUM. I did some research on why to use SCRUM for this type of project and what other methods there are to choose from and what theire benefits are. This product helps prove my proficiency at learning outcome 3: ***Agile method***.\
-[Click here to see the Agile Methods file](https://github.com/Brummer98/Portfolio_BramvHout/blob/0549f45ee7f7925c7481112c40660ee89e65260f/Research/AgileMethods.md)
+[Click here to see the Agile Methods file](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/AgileMethods.md)
 
 ### Business processes
 Some research was done on business processes for helping improve my proficiency on learning outcome 7: ***Business processes***.\
-[Click here to see the Business process file](https://github.com/Brummer98/Portfolio_BramvHout/blob/26ca0b6b92dbda362eecbab49bee06825179f34b/Research/BusinessProcesses.md)
+[Click here to see the Business process file](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/BusinessProcesses.md)
 
 ### Distributed Software Systems
 One thing that i started doing research on was ***Distrubuted Software Systems***\
-[Click here to see the DSS research](https://github.com/Brummer98/Portfolio_BramvHout/blob/de2fdcb2adbf4aeb9cbd4b0e297f46bb86a2d636/Research/DSS.md)
+[Click here to see the DSS research](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/DSS.md)
 
 ### Software and design
 Because there are so many different front- and backend frameworks, some research seemed necessary. By doing this kind of research, i help improve my 
 proficieny for learning outcome 6: ***Requirements and design***. \
-[Click here to see the Software and design file](https://github.com/Brummer98/Portfolio_BramvHout/blob/8fae5cf9149008878e0721cfb801b53174c217c9/Research/UXdesign.md)
+[Click here to see the Software and design file](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/UXdesign.md)
 
 ### Ethics
 I did some essential research on the Ethics topic. Ethics is where you recognize and take into account cultural differences when working with multi-size teams, and are aware of ethical aspects in software development. I have made an analysis and did some additional research to increase proficiency at learning outcome 5: ***Cultural differences and ethics***.\
-[Click here to see the Ethics file](https://github.com/Brummer98/Portfolio_BramvHout/blob/551a0c5c608b7f5454c78b26447701734ef2d620/Research/Ethics.md)
+[Click here to see the Ethics file](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/Ethics.md)
 
 ### Effective Learning
 I also did some research on something that i thought was neccesary especially for me, since i've always had some trouble planning my work.\
-[Click here to see the Effective Learning file](https://github.com/Brummer98/Portfolio_BramvHout/blob/b68654cde0bfd305543b72c95aa5af8d049fc97d/Research/EffectiveLearning.md)
+[Click here to see the Effective Learning file](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/EffectiveLearning.md)
 
 ## Feedpulse
 Ofcourse communciation with the stakeholder is very important. By communicating with the stakeholders and showing what i've been working on during the week, i help improve my proficiency for learning outcome 8: ***Professional***. To see all the feedpulses that where covered during this semester, click on the link below. \
-[Click here to see the feedpulse file](https://github.com/Brummer98/Portfolio_BramvHout/blob/80b2932a978b2897cd39e3deba65e73b67df6bf2/Feedpulse/Feedback_Stakeholder_IP.md)
+[Click here to see the feedpulse file](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Feedpulse/Feedback_Stakeholder_IP.md)
 
 ## Courses
 ### React JS Crash Course
