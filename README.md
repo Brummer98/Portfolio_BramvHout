@@ -128,14 +128,14 @@ By using a ***Javacript framework*** like ***React JS***, i help improve my prof
 For the FitOne application i have made several user stories, requirements and a software architecture diagram. Documentation like such can be found on the ***FitOne software design*** directory. This section is part of proving my proficiency at learning outcome 6: ***Requirements and Design***.
 [Click here to see the file](https://github.com/Brummer98/Portfolio_BramvHout/blob/f23e74d6b6584b8f885008f5124f792714fa5b60/FitOne/Software_design.md)
 
-###### What i've learned 
+### What i've learned 
 By creating the design document and going trough all of the elements within the document, i've learned several things:
 * I've learned how to determine what requirements are important for the project to be written down, as well as splitting the requirements into functional- and non functional ones. I aslo managed to set priority to those requirements using MoSCoW.
 * I've also learned how to develop wireframes to create a view of how the pages roughly are going to look like when the project is finished.
 * I've learned how to create a architecture of the entire project, so you can see what kind of systems and other things are going to be connected to the system.
 * Creating userstories was not really a new thing that i've learned, but i did improve it during semester 3!
 
-###### My perspective of learning outcome ***Software Design***
+### My perspective of learning outcome ***Software Design***
 As for now i'd say that i've learned enough to give myself a score of ***proficient***. I'm not at a beginning level of design and i've learned enough during semester 2 and 3 to say that i'm experienced enough to grand myself that score.
 
 ## WoC ( Group Project )
