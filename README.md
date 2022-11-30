@@ -8,6 +8,11 @@ Class: ***DB-03***\
 Coaches: ***Marc van Grootel, Hans van Heumen***\
 Date: ***03-11-2022***
 
+| Version | Date | Current |
+|---|---|---|
+| 1.0 | 03/11/2022 | False |
+| 1.1 | 30/11/2022 | True |
+
 ## Table of contents
 * [Introduction](#introduction)
 * [Learning outcomes](#learning-outcomes)
