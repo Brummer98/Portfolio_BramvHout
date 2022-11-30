@@ -129,19 +129,35 @@ I divided the project over an estimated 5 sprints to figure everything out and h
 ### Frontend design
 As stated earlier above, i make use of React JS and Bootstrap 5, which helped me to achieve creating a beautiful webpage. 
 
-###### Home
+#### Home
+The home page shows several widgets that contain data based on the user's food diary. It shows how many calories they can still eat / have eaten. It shows the amount of Fat, Protein and Carbs that they have been eating. It also shows the user's food diary where they can add or delete food.
 ![Home page](https://github.com/Brummer98/Portfolio_BramvHout/blob/42ed31c4b8b56014f16bf6b12a511d83164b7ddd/img/Home.png)
 
-###### Personal 
+#### Personal 
+The personal page shows all the details about the user, such as:
+* Name
+* Age
+* Weight
+* Calories
+
 ![Personal page](https://github.com/Brummer98/Portfolio_BramvHout/blob/42ed31c4b8b56014f16bf6b12a511d83164b7ddd/img/Personal.png)
 
-###### Login - Logout
+#### Login - Logout
+This pages only shows two buttons, one for logging in and one for logging out. The login button is a link to the authenticator integrated into FitOne.
 ![Login/Logout page](https://github.com/Brummer98/Portfolio_BramvHout/blob/42ed31c4b8b56014f16bf6b12a511d83164b7ddd/img/Login-Logout.png)
 
-###### Auth0 - Authentication
+#### Auth0 - Authentication
+For the authentication i integrated a piece of software called ***Auth0***. This is used for users to authenticate them to gain access to FitOne's features.
 ![Auth0 authenticator page](https://github.com/Brummer98/Portfolio_BramvHout/blob/42ed31c4b8b56014f16bf6b12a511d83164b7ddd/img/Auth0.png)
 
-###### Create user
+#### Create user
+This page contains a form where a user is able to be created. Form includes:
+* Username
+* Password
+* Age
+* Weight
+* Calories
+
 ![Create user page](https://github.com/Brummer98/Portfolio_BramvHout/blob/42ed31c4b8b56014f16bf6b12a511d83164b7ddd/img/Create.png)
 
 ### SCRUM
