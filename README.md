@@ -75,10 +75,18 @@ Source:
 https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=839s
 
 ### LinkedInLearning
+#### React JS Essentials training
 After watching the React JS Crash Course, i discovered that trough the portal of Fontys, i could get a FREE account for LinkedInLearning. Which was great news, because 
 LinkedIn is a very powerful platform which shows your skills, studies and working experience on the web. Trough completing the LinkedInLearning React JS Essential training, a certificate was added to my profile! Which is a very good thing, so my connections can see that i have the necessary experience with React JS.\
+
 Source:
 https://www.linkedin.com/learning/react-js-essential-training-14836121/building-modern-user-interfaces-with-react?autoplay=true&u=2095956
+
+#### MERN Essential training
+After completing the JS React Essential training as stated above, i went and searched for some more detailed back- to frontend essentials. I came across the MERN training on LinkedInLearning, which showed me how to create a fullstack webapp including a backend with controllers, routes, functions and a stable connection to a MongoDB scheme. it also showed how to properly connect the backend to the frontend and create a working CRUD system. MERN stands for MongoDB, Express, React and Node. 
+
+Source:
+https://www.linkedin.com/learning/mern-essential-training/learn-all-about-mern?autoplay=true&u=2095956
 
 ## Software desicions
 
