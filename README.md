@@ -172,6 +172,14 @@ In the first version of this file you could read that i've had chosen Microsoft 
 
 ![MongoDB compass tool](https://github.com/Brummer98/Portfolio_BramvHout/blob/7b54ba42c9e28f65dc46d8b6067e1f64db5aa097/img/MongoDB.png)
 
+#### CRUD
+CRUD stands for ***Create, Read, Update and Delete***. A CRUD system could be used for managing users etc. In the FitOne application, it is used to create users and add products loaded in from an API into a MongoDB scheme. The scheme exists out of a table where all elements are defined. So, a user that registers on the FitOne page needs to fill in the following fields to create an account:
+* Username
+* Password
+* Age
+* Weight
+* Length
+
 ### SCRUM
 I've made use of the SCRUM framework for this project and chose GitHub - projects as the tool to help me manage this process.
 [Click here to see the GitHub SCRUM enviroment](https://github.com/users/Brummer98/projects/1/views/1)
