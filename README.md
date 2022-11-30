@@ -126,8 +126,7 @@ FitOne is my individual project and is a web based fitness and food tracking app
 ### Sprints
 I divided the project over an estimated 5 sprints to figure everything out and have a fullstack webapplication by the end of it. That meant planning was necessary to achieve this goal. Since i knew nothing about the framework ***React JS*** i started doing some research in the first sprint. I also did some research on the backend of the webpage, which i made in ***Node.js***. In the second sprint, things came alive. I figured out how to use React JS to create a beautiful frontend webpage for my project. We are now reaching the end of the second sprint and i'll be focussing on getting the backed working in the next sprints. 
 
-### Frontend design
-As stated earlier above, i make use of React JS and Bootstrap 5, which helped me to achieve creating a beautiful webpage. 
+### Frontend 
 
 #### Home
 The home page shows several widgets that contain data based on the user's food diary. It shows how many calories they can still eat / have eaten. It shows the amount of Fat, Protein and Carbs that they have been eating. It also shows the user's food diary where they can add or delete food.
@@ -148,6 +147,7 @@ This pages only shows two buttons, one for logging in and one for logging out. T
 
 #### Auth0 - Authentication
 For the authentication i integrated a piece of software called ***Auth0***. This is used for users to authenticate them to gain access to FitOne's features.
+Because i'm making use of an authenticator such as ***Auth0***, i help improve my proficiency for ***Learning outcome 2: Software quality***.
 ![Auth0 authenticator page](https://github.com/Brummer98/Portfolio_BramvHout/blob/42ed31c4b8b56014f16bf6b12a511d83164b7ddd/img/Auth0.png)
 
 #### Create user
