@@ -165,6 +165,12 @@ This page contains a form where a user is able to be created. Form includes:
 
 ![Create user page](https://github.com/Brummer98/Portfolio_BramvHout/blob/42ed31c4b8b56014f16bf6b12a511d83164b7ddd/img/Create.png)
 
+### Backend
+
+#### MongoDB
+In the first version of this file you could read that i've had chosen Microsoft SQL Server as my database provider. Later on i heard that this semester was not meant for writing SQL statements by hand. On that note, i searched for something other. I came across MongoDB, which a lot of my classmates used aswell. It workes perfectly fine with this project, and was really easy to install with my Node.js backend. 
+![MongoDB compass tool]()
+
 ### SCRUM
 I've made use of the SCRUM framework for this project and chose GitHub - projects as the tool to help me manage this process.
 [Click here to see the GitHub SCRUM enviroment](https://github.com/users/Brummer98/projects/1/views/1)
