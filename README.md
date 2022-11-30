@@ -152,7 +152,9 @@ and ***deploy***. By using GitHub desktop and managing multiple branches, i make
 As seen in the above image, i've been pushing several new changes into my branch, proving a part of my proficiency for learning outcome 4: ***CI/CD***.
 
 ### Business process
-(Business process)[]
+To help improve my profiency for learning outcome ***7: Business process***, i've made a process that shows how a FitOne user adds an item to their diary. It shows how the client functions and also how the system handles what the client does.
+
+![Business process](https://github.com/Brummer98/Portfolio_BramvHout/blob/19e44ffd8cc52120b83cfdcd14464f89a6b38bf3/img/BusinessProcess.png)
 
 ### Progress
 So far i've only been working on the frontend of the project. The backend is something i want to start with when November starts. I still need to do some additional research on what database i'm going to use for the project. We have been working with SQL during the first and second semester, but now in the third, we need to up our game! Most of the students i know are working with a database client called ***MongoDB***. MongoDB helps you ***not*** to use any SQL in your project. There might be a change that i'm going to use MongoDB for my individual project. As for now, i will be using ***.NET*** for my backend layer. The last two weeks i've been working hard on my portfolio in order to give a nice view of my current position in this semester and the things i've learned.
