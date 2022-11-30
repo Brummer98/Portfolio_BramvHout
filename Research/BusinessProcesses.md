@@ -59,11 +59,6 @@ A user-story map depicts 3 types of actions at different granularity: activities
 
 ![Userstory mapping](https://www.datocms-assets.com/17507/1611084840-usermapping2.png?fit=max&fm=webp&q=60&w=736)
 
-### Business process of personal project
-This is a process where the FitOne user adds a product to their personal diary:
-
-![Business process](https://github.com/Brummer98/Portfolio_BramvHout/blob/b6898b5475ad24a3a076a630548d814debfa6586/img/BP.png)
-
 ### Sources
 https://www.heflo.com/blog/bpm/it-business-processes/ \
 https://kissflow.com/workflow/bpm/business-process/#business%20process \
