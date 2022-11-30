@@ -130,19 +130,19 @@ I divided the project over an estimated 5 sprints to figure everything out and h
 As stated earlier above, i make use of React JS and Bootstrap 5, which helped me to achieve creating a beautiful webpage. 
 
 ###### Home
-![Home page]()
+![Home page](https://github.com/Brummer98/Portfolio_BramvHout/blob/42ed31c4b8b56014f16bf6b12a511d83164b7ddd/img/Home.png)
 
 ###### Personal 
-![Personal page]()
+![Personal page](https://github.com/Brummer98/Portfolio_BramvHout/blob/42ed31c4b8b56014f16bf6b12a511d83164b7ddd/img/Personal.png)
 
 ###### Login - Logout
-![Login/Logout page]()
+![Login/Logout page](https://github.com/Brummer98/Portfolio_BramvHout/blob/42ed31c4b8b56014f16bf6b12a511d83164b7ddd/img/Login-Logout.png)
 
 ###### Auth0 - Authentication
-![Auth0 authenticator page]()
+![Auth0 authenticator page](https://github.com/Brummer98/Portfolio_BramvHout/blob/42ed31c4b8b56014f16bf6b12a511d83164b7ddd/img/Auth0.png)
 
 ###### Create user
-![Create user page]()
+![Create user page](https://github.com/Brummer98/Portfolio_BramvHout/blob/42ed31c4b8b56014f16bf6b12a511d83164b7ddd/img/Create.png)
 
 ### SCRUM
 I've made use of the SCRUM framework for this project and chose GitHub - projects as the tool to help me manage this process.
