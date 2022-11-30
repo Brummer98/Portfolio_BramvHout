@@ -126,9 +126,23 @@ FitOne is my individual project and is a web based fitness and food tracking app
 ### Sprints
 I divided the project over an estimated 5 sprints to figure everything out and have a fullstack webapplication by the end of it. That meant planning was necessary to achieve this goal. Since i knew nothing about the framework ***React JS*** i started doing some research in the first sprint. I also did some research on the backend of the webpage, which i made in ***Node.js***. In the second sprint, things came alive. I figured out how to use React JS to create a beautiful frontend webpage for my project. We are now reaching the end of the second sprint and i'll be focussing on getting the backed working in the next sprints. 
 
-![alt text][logo1]
+### Frontend design
+As stated earlier above, i make use of React JS and Bootstrap 5, which helped me to achieve creating a beautiful webpage. 
 
-[logo1]: https://github.com/Brummer98/Portfolio_BramvHout/blob/8d235f6631a0a64584cff98ca346568f21c3bb68/img/FitOne-Dashboard.png "FitOne webpage"
+###### Home
+![Home page]()
+
+###### Personal 
+![Personal page]()
+
+###### Login - Logout
+![Login/Logout page]()
+
+###### Auth0 - Authentication
+![Auth0 authenticator page]()
+
+###### Create user
+![Create user page]()
 
 ### SCRUM
 I've made use of the SCRUM framework for this project and chose GitHub - projects as the tool to help me manage this process.
