@@ -114,16 +114,11 @@ React was created with a single focus, which is creating components for webappli
 ### Frontend – Bootstrap 5
 Bootstrap ( 5 ) is a frontend toolkit that is great to use in all kinds of webapplications. It’s used for fast component integration and responsive layouts. The Grid system is also a very usefull system for creating a nice layout. You can work with containers, rows and columns, to give the website a complete and functional layout. My experience with Bootstrap has been great, and I have made a few websites with the toolkit. 
 
-### Backend – ASP.Net Core
-What is the reason for choosing DOT NET for te FitOne project? Let’s say to start with, I already have the neccesary experience to develop in C#. Last semester we did an entire project using DOT NET MVC. For this part we will only be using C# as a backend tool, so no MVC will be developed. We will be using Javascrip React to develop the frontend of the project. Internet says that the DOT NET framework provides great security, which will help protect the project.
+### Backend – Node.js
+For creating the backend of this project, i chose to use Node.js as my backend structure. This because it is easy to implement into VS-Code and practical to use with React JS. Node.js also works pretty wel with the database server MongoDB and Docker. In the previous semester we worked with ASP.Net MVC to create an entire fullstack webapplication. This time Node.js, React JS, MongoDB and Docker to run all the services on creates the entire stack.
 
-Source: 
-https://www.alliancetek.com/blog/post/2015/06/01/reasons-why-should-you-choose-microsoft-net-framework.aspx#:~:text=NET%20framework%20provides%20a%20highly,secure%20data%20with%20encryption%2Fdecryption.
-
-It’s also great with quick deployment. Applications build with the framework can be deployed quickly on any microsoft server. And overal, the software is fairly easy to use.
-
-### Database – Microsoft SQL Server
-For me this was an easy decision. I’ve used SQL Server since I started programming for the first time. In comparison to other database systems, I find this one to be the most easy to use. Next to SQL Server, I did do some research on MongoDB. But not using any sql statements seems kind of weird to me. So, naturally I chose SQL Server for this project.
+### Database – MongoDB
+The reason i chose for MongoDB is because it is very easy to use and implement into your project. At the beginning of this semester we were told not to write any queries by hand this semester. So, it was necessary to find a database client that could work without hand made sql queries. MongoDB seems to do the trick. It is also very capable with API's, since they come as JSON files, which MongoDB handles easily. 
 
 ## FitOne ( Individual Project )
 ![alt text][logo]
