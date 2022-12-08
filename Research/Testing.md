@@ -51,6 +51,13 @@ Performance tests are run to check if the software’s performance is good or no
 Doing a performance test shows how strongly the application actually performs when going live. By doing this test you might find several flaws in your system, which
 you can then fix to increase perfomance again. This seems like a reasonable non functional first test to do.
 
+#### Security testing
+Security tests are performed to ensure the security of your application, in order that security breaches can be prevented. Security experts run this kind of tests to see how much your software is secure from attacks and to find security issues so that the app’s security can be strengthened
+
+###### Why security testing?
+Seems like a no-brainer to me to test the security wihtin the FitOne project. Security is a very important part of the project because user's their personal data could
+be thrown into the open, which we don't want to happen.
+
 ## Sources
 https://fhict.instructure.com/courses/12517/pages/testing-what-when-and-where?module_item_id=835976
 https://hackr.io/blog/types-of-software-testing
