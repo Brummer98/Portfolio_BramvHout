@@ -64,6 +64,10 @@ proficieny for learning outcome 6: ***Requirements and design***. \
 I did some essential research on the Ethics topic. Ethics is where you recognize and take into account cultural differences when working with multi-size teams, and are aware of ethical aspects in software development. I have made an analysis and did some additional research to increase proficiency at learning outcome 5: ***Cultural differences and ethics***.\
 [Click here to see the Ethics file](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/Ethics.md)
 
+### Testing 
+I did some useful research on what kind of tests i should be perform within the FitOne project. 
+[Click here to see the testing research file](https://github.com/Brummer98/Portfolio_BramvHout/blob/0089e30396a04cd26ad69a332d680d4060dff87d/Research/Testing.md)
+
 ### Effective Learning
 I also did some research on something that i thought was neccesary especially for me, since i've always had some trouble planning my work.\
 [Click here to see the Effective Learning file](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/EffectiveLearning.md)
