@@ -60,5 +60,7 @@ be thrown into the open, which we don't want to happen.
 
 ## Sources
 https://fhict.instructure.com/courses/12517/pages/testing-what-when-and-where?module_item_id=835976
+
 https://hackr.io/blog/types-of-software-testing
+
 https://www.softwaretestinghelp.com/types-of-software-testing/
