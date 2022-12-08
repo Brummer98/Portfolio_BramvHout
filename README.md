@@ -219,7 +219,10 @@ One of the first tests i did was a response test on how fast the response time w
 ![Testing response time](https://github.com/Brummer98/Portfolio_BramvHout/blob/cab9f3ef392356350fd584ec4340fd7ac4b61a72/img/Test_response.png)
 
 A second test i did was testing if the query was valid and that it would return a body:
-![Testing valid and body]()
+![Testing valid and body](https://github.com/Brummer98/Portfolio_BramvHout/blob/a742575a1e738afacd387bff44fce60837746ee2/img/Test_ValidAndBody.png)
+
+A third test was for a succesful POST, like creating a user: \
+![Succesful POST test](https://github.com/Brummer98/Portfolio_BramvHout/blob/a742575a1e738afacd387bff44fce60837746ee2/img/Test_POST_Succes.png)
 
 ### Business process
 To help improve my profiency for learning outcome ***7: Business process***, i've made a process that shows how a FitOne user adds an item to their diary. It shows how the client functions and also how the system handles what the client does.
