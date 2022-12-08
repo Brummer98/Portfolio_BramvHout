@@ -212,11 +212,14 @@ As seen in the above image, i've been pushing several new changes into my branch
 
 ## CI testing
 Ofcourse to prove the necessary part for CI, i needed to create a range of tests to show that all of my functionality in FitOne is working fine.
-One tool to test all of my endpoints of the backend was ***Postman***. I used Postman to increment a series of queries, as shown in the image below:
-![Collection of Postman endpoints]()
+One tool to test all of my endpoints of the backend was ***Postman***. I used Postman to increment a series of queries, as shown in the image below: \
+![Collection of Postman endpoints](https://github.com/Brummer98/Portfolio_BramvHout/blob/b615c5d22c0434dc3ea638a27b873e6c83b1c879/img/Postman_collection.png)
 
 One of the first tests i did was a response test on how fast the response time was, or more exact: if the response time was less than ***200 ms***:
+![Testing response time](https://github.com/Brummer98/Portfolio_BramvHout/blob/cab9f3ef392356350fd584ec4340fd7ac4b61a72/img/Test_response.png)
 
+A second test i did was testing if the query was valid and that it would return a body:
+![Testing valid and body]()
 
 ### Business process
 To help improve my profiency for learning outcome ***7: Business process***, i've made a process that shows how a FitOne user adds an item to their diary. It shows how the client functions and also how the system handles what the client does.
