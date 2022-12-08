@@ -41,6 +41,24 @@ The learning outcomes for this semester are based on a ***A(ssociate)D(egree)***
 | 7 | Business processes | You can explain simple business processes and relate them to the development of your software project | Simple: predominantly sequential processes with one or two alternative paths. Relate: understanding the relationships between the process and software. |
 | 8 | Professional | You act in a professional manner during software development and learning | Professional manner: You develop software as a team effort according to a prescribed software methodology and following team agreements. You are able to track your work progress and communicate your progress with the team. You  independently recognize and decide where your knowledge falls short to solve a software problem and  communicate which new knowledge and skills you need to learn. |
 
+## Work done per outcome
+
+### Web application
+
+### Software quality
+
+### Agile method
+
+### CI/CD
+
+### Cultural differences and ethics
+
+### Requirements and design
+
+### Business processes
+
+### Professional
+
 ## Research
 
 ### Agile methods
