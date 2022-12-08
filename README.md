@@ -65,7 +65,7 @@ I did some essential research on the Ethics topic. Ethics is where you recognize
 [Click here to see the Ethics file](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/Ethics.md)
 
 ### Testing 
-I did some useful research on what kind of tests i should be perform within the FitOne project. 
+I did some useful research on what kind of tests i should be performing within the FitOne project. \
 [Click here to see the testing research file](https://github.com/Brummer98/Portfolio_BramvHout/blob/0089e30396a04cd26ad69a332d680d4060dff87d/Research/Testing.md)
 
 ### Effective Learning
