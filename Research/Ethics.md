@@ -13,6 +13,8 @@ Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Et
 
 ### ethics in software engineering
 
+![Ethics](https://github.com/Brummer98/Portfolio_BramvHout/blob/a52b86792af00b91216dc3517ce407f202fb5ed9/img/bigstock-Respect-Ethics-Honest-Integrit-62711897.jpg)
+
 Because i was not really familiair with the subject of ethics, i started to search for it's definition and possible essential subjects.
 Recording to a website there is something called ***The Software Engineering Code of Ethics***. Which outlines ***eight*** principles related to the behaviour of and decisions made by software engineers, and identifies ethical obligations to which they must adhere. 
 The eight principles of the software code are as follows:
