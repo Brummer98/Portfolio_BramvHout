@@ -70,7 +70,7 @@ For designing the FitOne pages, i used a piece of software called ***Draw.io***.
 
 [logo6]: https://github.com/Brummer98/Portfolio_BramvHout/blob/4818492d09fd2a9fadbbc278ea149ff1c577891c/img/Component%20diagram%20-%20FitOne.png "Component diagram FitOne"
 ## Source
-https://c4model.com/img/bigbankplc-SystemContext.png\
-https://c4model.com/img/bigbankplc-Containers.png\
-https://c4model.com/img/bigbankplc-Components.png\
+https://c4model.com/img/bigbankplc-SystemContext.png \
+https://c4model.com/img/bigbankplc-Containers.png \
+https://c4model.com/img/bigbankplc-Components.png \
 https://c4model.com/img/bigbankplc-Classes.png
