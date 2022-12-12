@@ -211,7 +211,7 @@ By using a Javascript framework like React JS, i help improve my proficiency wit
 
 ### Software design
 For the FitOne application i have made several user stories, requirements and a software architecture diagram. Documentation like such can be found on the ***FitOne software design*** directory. This section is part of proving my proficiency at learning outcome 6: ***Requirements and Design***.
-[Click here to see the file](https://github.com/Brummer98/Portfolio_BramvHout/blob/f23e74d6b6584b8f885008f5124f792714fa5b60/FitOne/Software_design.md)
+[Click here to see the file](https://github.com/Brummer98/Portfolio_BramvHout/blob/68d05499efeba76f532588eb3758082e501186ae/FitOne/Software_design.md)
 
 ### CI/CD
 ![CI/CD](https://www.mabl.com/hubfs/CICDBlog.png)
