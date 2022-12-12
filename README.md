@@ -229,6 +229,7 @@ One tool to test all of my endpoints of the backend was ***Postman***. I used Po
 ![Collection of Postman endpoints](https://github.com/Brummer98/Portfolio_BramvHout/blob/b615c5d22c0434dc3ea638a27b873e6c83b1c879/img/Postman_collection.png)
 
 One of the first tests i did was a response test on how fast the response time was, or more exact: if the response time was less than ***200 ms***:
+
 ![Testing response time](https://github.com/Brummer98/Portfolio_BramvHout/blob/cab9f3ef392356350fd584ec4340fd7ac4b61a72/img/Test_response.png)
 
 A second test i did was testing if the query was valid and that it would return a body:
