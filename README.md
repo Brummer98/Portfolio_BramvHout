@@ -41,24 +41,6 @@ The learning outcomes for this semester are based on a ***A(ssociate)D(egree)***
 | 7 | Business processes | You can explain simple business processes and relate them to the development of your software project | Simple: predominantly sequential processes with one or two alternative paths. Relate: understanding the relationships between the process and software. |
 | 8 | Professional | You act in a professional manner during software development and learning | Professional manner: You develop software as a team effort according to a prescribed software methodology and following team agreements. You are able to track your work progress and communicate your progress with the team. You  independently recognize and decide where your knowledge falls short to solve a software problem and  communicate which new knowledge and skills you need to learn. |
 
-## Work done per outcome
-
-### Web application
-
-### Software quality
-
-### Agile method
-
-### CI/CD
-
-### Cultural differences and ethics
-
-### Requirements and design
-
-### Business processes
-
-### Professional
-
 ## Research
 
 ### Agile methods
@@ -256,7 +238,23 @@ By creating the design document and going trough all of the elements within the 
 * I've learned how to create a architecture of the entire project, so you can see what kind of systems and other things are going to be connected to the system.
 * Creating userstories was not really a new thing that i've learned, but i did improve it during semester 3!
 
-### My perspective of learning outcome ***Software Design***
-As for now i'd say that i've learned enough to give myself a score of ***proficient***. I'm not at a beginning level of design and i've learned enough during semester 2 and 3 to say that i'm experienced enough to grand myself that score.
+## My perspective of the learning outcomes
+
+### Web application
+
+### Software quality
+
+### Agile method
+Because i make use out of a Agile method that i did a solid research on, which can be found [here](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/AgileMethods.md), i'd say that i score ***proficient*** for this learning outcome.
+
+### CI/CD
+
+### Cultural differences and ethics
+
+### Requirements and design
+
+### Business processes
+
+### Professional
 
 ## WoC ( Group Project )
