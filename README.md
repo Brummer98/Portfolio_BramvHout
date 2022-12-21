@@ -288,3 +288,90 @@ By doing the necessary amount of research and creating a business process based 
 By communicating with the stakeholder and asking for their needs, communicating with team members and behaving in a professional manner, and being able to show my progress during the sprints, for example see [sprint planning](https://github.com/users/Brummer98/projects/1/views/1), i'd give myself the score of ***proficient*** for this learning outcome. To see the contact between the stakeholder and i, click [here](Feedpulse/FP_Volledig.pdf).
 
 ## WoC ( Group Project )
+
+### Agile 
+
+As a team we chose to work the SCRUM agile method. So on a daily basis we had several meetings and created an environment where we summed up all of the issues withing
+the project. Every meeting we took the time to look at the issues and speak up your mind about problems that we were having. That meant that we could all help eachother out and work out the issues one by one. 
+
+### Issues
+
+We created issues to keep track of all the things that we need to do as a team, to finish the project. Everyone can create issues, not everyone can assign them to one another. Every issue comes with it's own description and checklist of things that must be done to finish the issue. 
+
+![Issues](https://github.com/S3-DB03/IsItLive/blob/fa6bced679ec8261869ec4c1d202ef473aa03aff/img/Issues.png)
+
+### Working as a team
+
+### Workflow
+
+### How does the system work?
+
+You begin at the home page, where you are pesented a dropdown component where you select a retailer from.
+In this case, we limited the list of options to ***two*** retailers:
+* Albertheijn
+* Jumbo
+
+![Selection dropdown retailers](https://github.com/S3-DB03/IsItLive/blob/2a58916be322447a331c114f72015c03511eaf3d/img/SelectRetailer.png)
+
+After selecting one of these options, the page will redirect to the main page loaded in with the corresponding data based on what retailer was chosen.
+You can see an overal score in the progress bar on the top of the page, which represents the score of all products shown in the table. The table on the page is loaded with all the products that the retailer has in stock, where you are able to see what livescore every product has.
+
+### Widgets
+We decided to go with several components on a dashboard- like design, which we call ***widgets***. These widgets each contain something different to show.
+The page consist out of the following widgets:
+
+###### Live & Not Live - Score
+This widget contains a progressbar where the overal live and not live score has been stacked into. This widget provides an easy overview to all of the products their average livescores. 
+
+![Live and Not Live score](https://github.com/S3-DB03/IsItLive/blob/2fb1a095c38f23738c679c4e3c84f54fb9f95caa/img/LiveNotLive.png)
+
+###### Total amount of products
+This widget contains the exact amount of products that the chosen retailer has in stock.
+
+![Live and Not Live score](https://github.com/S3-DB03/IsItLive/blob/2fb1a095c38f23738c679c4e3c84f54fb9f95caa/img/TotalAmount.png)
+
+###### Products list
+This widget contains a table which is filled with products that the retailer has in stock. The table consist out of the following columns:
+* Ean
+* Product description
+* Status
+* Similarity
+
+![Live and Not Live score](https://github.com/S3-DB03/IsItLive/blob/2fb1a095c38f23738c679c4e3c84f54fb9f95caa/img/ProductsTable.png)
+
+### Backend 
+
+#### Scrapers
+
+#### RestAPI
+
+### Frontend
+
+#### Design
+We decided to go for a ***dashboard*** like style. This because we then could add several widgets, which seem to work quit well with this project.
+At first we started of with a neutral page, which showed several components. After getting some useful feedback from WoC, we decided to go for the dashboard style. 
+The colors used on the page and in the components work wel with eachother, you can see what is non-functional and what is functional on the webpage.
+There was a little bit of research needed to see what kind of styling would be best for this project. This depended on what kind of data we where going to show and what kind of components the data was loaded in. We also decided to make use of ***Bootstrap*** and build the page using ***React JS***. 
+
+#### Bootstrap
+Bootstrap has a very easy to use and user friendly system, called the ***Grid system***. 
+
+#### React JS
+
+### Livescore
+
+#### How does it work?
+
+### Software quality 
+
+#### Testing endpoints in Postman
+
+### Contributors
+
+This project is realized by the following contributors.
+
+<a href="https://github.com/RikVanHaaren"><img alt="RikVanHaaren" src="https://avatars.githubusercontent.com/u/113465859?v=4" height="auto" width="100"></a>
+<a href="https://github.com/Brummer98"><img alt="Brummer98" src="https://avatars.githubusercontent.com/u/95472264?v=4" height="auto" width="100"></a>
+<a href="https://github.com/SanderMeulensteen"><img alt="SanderMeulensteen" src="https://avatars.githubusercontent.com/u/63857652?v=4" height="auto" width="100"></a>
+<a href="https://github.com/Lil-durk"><img alt="Lil-durk" src="https://avatars.githubusercontent.com/u/50996310?v=4" height="auto" width="100"></a>
+<a href="https://github.com/thisoban"><img alt="thisoban" src="https://avatars.githubusercontent.com/u/22049714?v=4" height="auto" width="100"></a>
