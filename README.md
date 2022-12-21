@@ -275,7 +275,7 @@ The design research file can be found [here](Research/UXdesign.md).
 ### Business processes
 ###### You can explain simple business processes and relate them to the development of your software project.
 
-By doing the necessary amount of research and creating a business process based on a functionality in my FitOne system, i rate the score of ***proficient*** for this learning outcome. You can see the research file [here](Research/BusinessProcesses.md), and the business process itself ![here](#business-process).
+By doing the necessary amount of research and creating a business process based on a functionality in my FitOne system, i rate the score of ***proficient*** for this learning outcome. You can see the research file [here](Research/BusinessProcesses.md), and the business process itself [here](#business-process).
 
 ### Professional
 ###### You act in a professional manner during software development and learning
