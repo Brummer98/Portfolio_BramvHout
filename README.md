@@ -206,7 +206,9 @@ and ***deploy***. By using GitHub desktop and managing multiple branches, i make
 As seen in the above image, i've been pushing several new changes into my branch, proving a part of my proficiency for learning outcome 4: ***CI/CD***.
 
 ## CI testing
-Ofcourse to prove the necessary part for CI, i needed to create a range of tests to show that all of my functionality in FitOne is working fine.
+
+## Software Quality
+Ofcourse to prove the necessary part for Software Quality, i needed to create a range of tests to show that all of my functionality in FitOne is working fine.
 One tool to test all of my endpoints of the backend was ***Postman***. I used Postman to increment a series of queries, as shown in the image below: \
 ![Collection of Postman endpoints](https://github.com/Brummer98/Portfolio_BramvHout/blob/b615c5d22c0434dc3ea638a27b873e6c83b1c879/img/Postman_collection.png)
 
