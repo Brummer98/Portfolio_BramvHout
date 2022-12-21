@@ -74,7 +74,7 @@ I also did some research on something that i thought was neccesary especially fo
 
 ## Feedpulse
 Ofcourse communciation with the stakeholder is very important. By communicating with the stakeholders and showing what i've been working on during the week, i help improve my proficiency for learning outcome 8: ***Professional***. To see all the feedpulses that where covered during this semester, click on the link below. \
-[Click here to see the feedpulse file](Feedpulse/Feedback_Stakeholder_IP.md)
+[Click here to see the feedpulse file](Feedpulse/FP_Volledig.pdf)
 
 ## Courses
 ### React JS Crash Course
