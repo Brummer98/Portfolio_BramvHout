@@ -243,15 +243,28 @@ By creating the design document and going trough all of the elements within the 
 ## My perspective of the learning outcomes
 
 ### Web application
+###### You design and build user-friendly, full-stack web applications
+
+By doing the necessary research on design and what is best to use for the frontend of my project, by creating userstories, setting up requirements and implementing
+a toolkit such as ***Bootstrap***. I've created a fullstack webapplication based on ***React JS*** and ***Node JS*** for the backend. I'd say that my score for this learning outcome is ***proficient***.
 
 ### Software quality
+###### You use software tooling and methodology that continuously monitors and improve the software quality during software development
+
+By making use out of tools like ***Postman***, for making sure that all of the endpoints in my system are working perfectly fine and are compiling the right data. By implementing security and authentication using ***Auth0*** and implemeting a tool called ***Sonarcloud*** to verify that my code is proper, i prove that my score for this learning outcome is ***proficient***. 
 
 ### Agile method
-Because i make use out of a Agile method that i did a solid research on, which can be found [here](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/AgileMethods.md), i'd say that i score ***proficient*** for this learning outcome.
+###### You can implement the software process for your project according to a given agile software development method
+
+Because i make use out of an Agile method that i did a solid research on, which can be found [here](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/AgileMethods.md), and also creating and keeping track of a consistent planning in the ***GitHub*** environment, i prove that my score for this learing outcome is ***proficient***. 
 
 ### CI/CD
 
 ### Cultural differences and ethics
+###### You recognize and take into account cultural differences when working with multi-site teams, and are aware of ethical aspects in software development
+
+By doing the necessary research on Ethics and how it works in the ***IT*** world, i'd say for now that i score ***Beginning*** for this learning outcome. To make sure this score wil go up to proficient, i'd say i have to do an analyze on either the individual- or the group project. 
+the research file can be found [here]().
 
 ### Requirements and design
 
