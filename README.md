@@ -209,6 +209,8 @@ As seen in the above image, i've been pushing several new changes into my branch
 
 As part of CI testing, i started with creating a ***workflow*** file in my repository of the FitOne project. A workflow file contains a piece of code which runs a type of build. I started with a simple one that runs all of my test files within the backend directory of my project. because i implemented this workflow, it will now cooperate perfeclty fine with ***GitHub Desktop*** everytime a push is made to the main branch. So, every single push will then receive a check because of the workflow file. 
 
+![CI - Automated testing on push](img/CI_AutomatedPushGitHubWorkflow.png)
+
 ## Software Quality
 Ofcourse to prove the necessary part for Software Quality, i needed to create a range of tests to show that all of my functionality in FitOne is working fine.
 One tool to test all of my endpoints of the backend was ***Postman***. I used Postman to increment a series of queries, as shown in the image below: \
