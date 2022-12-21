@@ -264,12 +264,18 @@ Because i make use out of an Agile method that i did a solid research on, which 
 ###### You recognize and take into account cultural differences when working with multi-site teams, and are aware of ethical aspects in software development
 
 By doing the necessary research on Ethics and how it works in the ***IT*** world, i'd say for now that i score ***Beginning*** for this learning outcome. To make sure this score wil go up to proficient, i'd say i have to do an analyze on either the individual- or the group project. 
-the research file can be found [here]().
+The research file can be found [here](https://github.com/Brummer98/Portfolio_BramvHout/blob/2265a246381304f4fca079a4604430f549703713/Research/Ethics.md).
 
 ### Requirements and design
+###### You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques
+
+By first setting up a variety of functional and non-functional requirements, creating userstories and doing research for what kind of design i'd like to use in my project, i'd say that i score ***proficient*** for this learning outcome. 
+The design research file can be found [here]().
 
 ### Business processes
+###### You can explain simple business processes and relate them to the development of your software project.
 
 ### Professional
+###### You act in a professional manner during software development and learning
 
 ## WoC ( Group Project )
