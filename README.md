@@ -270,7 +270,7 @@ The research file can be found [here](https://github.com/Brummer98/Portfolio_Bra
 ###### You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques
 
 By first setting up a variety of functional and non-functional requirements, creating userstories and doing research for what kind of design i'd like to use in my project, i'd say that i score ***proficient*** for this learning outcome. 
-The design research file can be found [here]().
+The design research file can be found [here](Research/UXdesign.md).
 
 ### Business processes
 ###### You can explain simple business processes and relate them to the development of your software project.
