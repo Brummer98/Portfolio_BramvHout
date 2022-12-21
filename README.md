@@ -280,4 +280,6 @@ By doing the necessary amount of research and creating a business process based 
 ### Professional
 ###### You act in a professional manner during software development and learning
 
+By communicating with the stakeholder and asking for their needs, communicating with team members and behaving in a professional manner, i'd give myself the score of ***proficient*** for this learning outcome. To see the contact between the stakeholder and i, click [here](Feedpulse/Feedback_Stakeholder_IP.md).
+
 ## WoC ( Group Project )
