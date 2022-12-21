@@ -45,36 +45,36 @@ The learning outcomes for this semester are based on a ***A(ssociate)D(egree)***
 
 ### Agile methods
 For this semester i chose for both the projects to use the agile method called SCRUM. I did some research on why to use SCRUM for this type of project and what other methods there are to choose from and what theire benefits are. This product helps prove my proficiency at learning outcome 3: ***Agile method***.\
-[Click here to see the Agile Methods file](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/AgileMethods.md)
+[Click here to see the Agile Methods file](Research/AgileMethods.md)
 
 ### Business processes
 Some research was done on business processes for helping improve my proficiency on learning outcome 7: ***Business processes***.\
-[Click here to see the Business process file](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/BusinessProcesses.md)
+[Click here to see the Business process file](Research/BusinessProcesses.md)
 
 ### Distributed Software Systems
 One thing that i started doing research on was ***Distrubuted Software Systems***\
-[Click here to see the DSS research](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/DSS.md)
+[Click here to see the DSS research](Research/DSS.md)
 
 ### Software and design
 Because there are so many different front- and backend frameworks, some research seemed necessary. By doing this kind of research, i help improve my 
 proficieny for learning outcome 6: ***Requirements and design***. \
-[Click here to see the Software and design file](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/UXdesign.md)
+[Click here to see the Software and design file](Research/UXdesign.md)
 
 ### Ethics
 I did some essential research on the Ethics topic. Ethics is where you recognize and take into account cultural differences when working with multi-size teams, and are aware of ethical aspects in software development. I have made an analysis and did some additional research to increase proficiency at learning outcome 5: ***Cultural differences and ethics***.\
-[Click here to see the Ethics file](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/Ethics.md)
+[Click here to see the Ethics file](Research/Ethics.md)
 
 ### Testing 
 I did some useful research on what kind of tests i should be performing within the FitOne project. \
-[Click here to see the testing research file](https://github.com/Brummer98/Portfolio_BramvHout/blob/0089e30396a04cd26ad69a332d680d4060dff87d/Research/Testing.md)
+[Click here to see the testing research file](Research/Testing.md)
 
 ### Effective Learning
 I also did some research on something that i thought was neccesary especially for me, since i've always had some trouble planning my work.\
-[Click here to see the Effective Learning file](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/EffectiveLearning.md)
+[Click here to see the Effective Learning file](Research/EffectiveLearning.md)
 
 ## Feedpulse
 Ofcourse communciation with the stakeholder is very important. By communicating with the stakeholders and showing what i've been working on during the week, i help improve my proficiency for learning outcome 8: ***Professional***. To see all the feedpulses that where covered during this semester, click on the link below. \
-[Click here to see the feedpulse file](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Feedpulse/Feedback_Stakeholder_IP.md)
+[Click here to see the feedpulse file](Feedpulse/Feedback_Stakeholder_IP.md)
 
 ## Courses
 ### React JS Crash Course
@@ -274,6 +274,8 @@ The design research file can be found [here](Research/UXdesign.md).
 
 ### Business processes
 ###### You can explain simple business processes and relate them to the development of your software project.
+
+By doing the necessary amount of research and creating a business process based on a functionality in my FitOne system, i rate the score of ***proficient*** for this learning outcome. You can see the research file [here](Research/BusinessProcesses.md), and the business process itself ![here](#business-process).
 
 ### Professional
 ###### You act in a professional manner during software development and learning
