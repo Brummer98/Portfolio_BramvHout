@@ -263,6 +263,7 @@ By making use out of tools like ***Postman***, for making sure that all of the e
 Because i make use out of an Agile method that i did a solid research on, which can be found [here](Research/AgileMethods.md), and also creating and keeping track of a consistent planning in the ***GitHub*** environment, i prove that my score for this learing outcome is ***proficient***. 
 
 ### CI/CD
+###### You implement a (semi)automated software release process that matches the needs of the project context.
 
 ### Cultural differences and ethics
 ###### You recognize and take into account cultural differences when working with multi-site teams, and are aware of ethical aspects in software development
