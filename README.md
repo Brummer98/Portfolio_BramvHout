@@ -231,7 +231,7 @@ To help improve my profiency for learning outcome ***7: Business process***, i'v
 ##### Version 1.0
 So far i've only been working on the frontend of the project. The backend is something i want to start with when November starts. I still need to do some additional research on what database i'm going to use for the project. We have been working with SQL during the first and second semester, but now in the third, we need to up our game! Most of the students i know are working with a database client called ***MongoDB***. MongoDB helps you ***not*** to use any SQL in your project. There might be a change that i'm going to use MongoDB for my individual project. As for now, i will be using ***.NET*** for my backend layer. The last two weeks i've been working hard on my portfolio in order to give a nice view of my current position in this semester and the things i've learned.
 ##### Version 1.1
-My frontend has been completed and all of the remaining components that i wanted to design and implement are now complete. After the portfolio assigment and review, i got feedback about not having a backend at all. So, i started working on that right away. By implementing the ***MERN*** concept, i started creating a backend existing out of ***controllers, routes, a connection with mongodb and schemas***. By creating this type of backend, i also created a functional and complete ***CRUD*** system. That means that a user can now be created, edited and deleted. You can also check the details of a user and show a list of all users, simple CRUD! After that is started to de some research on [testing](https://github.com/Brummer98/Portfolio_BramvHout/blob/0089e30396a04cd26ad69a332d680d4060dff87d/Research/Testing.md) and [businessprocesses and userstory mapping](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/BusinessProcesses.md). Currently i'm in the process of testing my backend functions. I already tested all of my endpoints as you can see [here](#ci-testing). Next up is to test all of the backend functions and testing some frontend data. After that i will focus on deployment.
+My frontend has been completed and all of the remaining components that i wanted to design and implement are now complete. After the portfolio assigment and review, i got feedback about not having a backend at all. So, i started working on that right away. By implementing the ***MERN*** concept, i started creating a backend existing out of ***controllers, routes, a connection with mongodb and schemas***. By creating this type of backend, i also created a functional and complete ***CRUD*** system. That means that a user can now be created, edited and deleted. You can also check the details of a user and show a list of all users, simple CRUD! After that is started to de some research on [testing](Research/Testing.md) and [businessprocesses and userstory mapping](Research/BusinessProcesses.md). Currently i'm in the process of testing my backend functions. I already tested all of my endpoints as you can see [here](#ci-testing). Next up is to test all of the backend functions and testing some frontend data. After that i will focus on deployment.
 
 ### What i've learned 
 By creating the design document and going trough all of the elements within the document, i've learned several things:
@@ -256,7 +256,7 @@ By making use out of tools like ***Postman***, for making sure that all of the e
 ### Agile method
 ###### You can implement the software process for your project according to a given agile software development method
 
-Because i make use out of an Agile method that i did a solid research on, which can be found [here](https://github.com/Brummer98/Portfolio_BramvHout/blob/main/Research/AgileMethods.md), and also creating and keeping track of a consistent planning in the ***GitHub*** environment, i prove that my score for this learing outcome is ***proficient***. 
+Because i make use out of an Agile method that i did a solid research on, which can be found [here](Research/AgileMethods.md), and also creating and keeping track of a consistent planning in the ***GitHub*** environment, i prove that my score for this learing outcome is ***proficient***. 
 
 ### CI/CD
 
@@ -264,7 +264,7 @@ Because i make use out of an Agile method that i did a solid research on, which 
 ###### You recognize and take into account cultural differences when working with multi-site teams, and are aware of ethical aspects in software development
 
 By doing the necessary research on Ethics and how it works in the ***IT*** world, i'd say for now that i score ***Beginning*** for this learning outcome. To make sure this score wil go up to proficient, i'd say i have to do an analyze on either the individual- or the group project. 
-The research file can be found [here](https://github.com/Brummer98/Portfolio_BramvHout/blob/2265a246381304f4fca079a4604430f549703713/Research/Ethics.md).
+The research file can be found [here](Research/Ethics.md).
 
 ### Requirements and design
 ###### You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques
