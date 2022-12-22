@@ -234,6 +234,18 @@ To help improve my profiency for learning outcome ***7: Business process***, i'v
 #### Workshop business process and userstory mapping
 Me and several other students created a workshop explaining what business process and userstory mapping are. To see these files and take a look into the presentation that we gave, you can click [here](https://github.com/fontys-open-up/2223nj-db03/tree/main/user-story-mapping-workshop)! By giving this workshop, i once more prove my proficiency for this learning outcome.
 
+###### Business process
+![Business process example](img/BusinessProcess.jpg)
+
+###### Business process management
+![Business process management](img/BusinessProcessManagement.jpg)
+
+###### Userstory mapping steps
+![Userstory mapping](img/UserstoryMappingSteps.jpg)
+
+###### Userstory mapping
+![Userstory mapping](img/UserStoryMapping.jpg)
+
 ### Progress
 ##### Version 1.0
 So far i've only been working on the frontend of the project. The backend is something i want to start with when November starts. I still need to do some additional research on what database i'm going to use for the project. We have been working with SQL during the first and second semester, but now in the third, we need to up our game! Most of the students i know are working with a database client called ***MongoDB***. MongoDB helps you ***not*** to use any SQL in your project. There might be a change that i'm going to use MongoDB for my individual project. As for now, i will be using ***.NET*** for my backend layer. The last two weeks i've been working hard on my portfolio in order to give a nice view of my current position in this semester and the things i've learned.
