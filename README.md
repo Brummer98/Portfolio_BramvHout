@@ -309,17 +309,23 @@ By communicating with the stakeholder and asking for their needs, communicating 
 As a team we chose to work the SCRUM agile method. So on a daily basis we had several meetings and created an environment where we summed up all of the issues withing
 the project. Every meeting we took the time to look at the issues and speak up your mind about problems that we were having. That meant that we could all help eachother out and work out the issues one by one. 
 
-### Issues
+#### Issues
 
 We created issues to keep track of all the things that we need to do as a team, to finish the project. Everyone can create issues, not everyone can assign them to one another. Every issue comes with it's own description and checklist of things that must be done to finish the issue. 
 
 ![Issues](https://github.com/S3-DB03/IsItLive/blob/fa6bced679ec8261869ec4c1d202ef473aa03aff/img/Issues.png)
 
-### Working as a team
+#### Working as a team
+We managed to make it work as a team by making use of the ***agile method: SCRUM***. Also by communicating to one another and having meetings offline- aswell as online. If anyone of us had a problem that we faced, there was always someone to help out and eliminate the issue. Before we started working on the project, we looked at everyones needs and what they wanted to do within the project. For example, Dirk and i are more interested in the frontend and dus ***React JS***, so we started working on that. While te other team members decided to be more involved in the backend of the project, which worked well. Eventually we mamaged to make great progress every sprint and show ***WoC*** that we were able to create a webapp based on their requirements.
+
+###### What went right?
+To be fair we actually managed to do pretty well as a team and split the issues among us all. The communication was great and everyone was excited to work on the project. Creating the issues and working with GitHub to have insights into eachoter's work was also a good thing. We Helped eachother out where we could and made great progress all along. 
+
+###### What went wrong?
+There were one or two sprint assignments where we had to show what we've been working on, but we did'nt prepare ourselfs well enough. Which lead to all being muted when we sat down and just staring at the one team member that brought the laptop to start talking. So, that was'nt so great. We did manage to create time to prepare ourselfs better for the next assignment. 
 
 ### Workflow
-
-### How does the system work?
+#### How does the system work?
 
 You begin at the home page, where you are pesented a dropdown component where you select a retailer from.
 In this case, we limited the list of options to ***two*** retailers:
@@ -331,7 +337,7 @@ In this case, we limited the list of options to ***two*** retailers:
 After selecting one of these options, the page will redirect to the main page loaded in with the corresponding data based on what retailer was chosen.
 You can see an overal score in the progress bar on the top of the page, which represents the score of all products shown in the table. The table on the page is loaded with all the products that the retailer has in stock, where you are able to see what livescore every product has.
 
-### Widgets
+#### Widgets
 We decided to go with several components on a dashboard- like design, which we call ***widgets***. These widgets each contain something different to show.
 The page consist out of the following widgets:
 
@@ -355,10 +361,13 @@ This widget contains a table which is filled with products that the retailer has
 ![Live and Not Live score](https://github.com/S3-DB03/IsItLive/blob/2fb1a095c38f23738c679c4e3c84f54fb9f95caa/img/ProductsTable.png)
 
 ### Backend 
+For the logic for this project we created a ***RestAPI*** and two ***scrapers***. We also worked with ***MongoDB*** to create schemes and save necessary data into the database. 
 
 #### Scrapers
+Two of our team members were frocussed on building scrapers so we could get the necessary data from the retailer's websites. The scrappers simply look over to one of the retailer's page and checks what is on it. It then ***scrapes*** the data and puts it into a file. That data we can compare with the list of products data we got from ***WoC***. 
 
 #### RestAPI
+The restapi is a backend tool where we can fetch data to be shown on the frontend of the project. The special thing within this RestAPI is that we managed to create a ***wrapper*** to fetch data more easily, instead of working with ***axios*** posts and gets. 
 
 ### Frontend
 
@@ -368,20 +377,29 @@ At first we started of with a neutral page, which showed several components. Aft
 The colors used on the page and in the components work wel with eachother, you can see what is non-functional and what is functional on the webpage.
 There was a little bit of research needed to see what kind of styling would be best for this project. This depended on what kind of data we where going to show and what kind of components the data was loaded in. We also decided to make use of ***Bootstrap*** and build the page using ***React JS***. 
 
-#### Bootstrap
-Bootstrap has a very easy to use and user friendly system, called the ***Grid system***. 
+###### Bootstrap
+Bootstrap has a very easy to use and user friendly system, called the ***Grid system***. This system was very useful to us because we wanted the dashboard type of 
+layout, and this was very easy to implement. You could add ***Containers***, ***Rows*** and ***Columns*** to create a nice layout which was also responsive. 
 
-#### React JS
+###### React JS
 
 ### Livescore
+The livescore is momenteraly calculated by comparing one ***snapshot*** to the existing list of ***products***. It checks for three different things:
+* EAN code
+* Title 
+* Description ( bullet points )
 
-#### How does it work?
+If any of these don't compare to the ones in the products list, we re-calulate the score and show it on the front of the page.
+
+![Similarity score](https://github.com/S3-DB03/IsItLive/blob/85fc1d52f265b58c77d9246ded28ee6c3cc94215/img/SimilarityScore.png)
+
+The livescore is calculated in the frontend of the project, since it doesn't need to be saved in the backend database.
 
 ### Software quality 
 
 #### Testing endpoints in Postman
 
-### Contributors
+## Contributors
 
 This project is realized by the following contributors.
 
