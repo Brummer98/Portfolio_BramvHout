@@ -68,7 +68,6 @@ Just because you can implement a new feature doesn’t mean you should! Some sof
 
 ## My view on ethics and cultural differences in Software Engineering
 
-
 ## My experience with ethics
 
 
