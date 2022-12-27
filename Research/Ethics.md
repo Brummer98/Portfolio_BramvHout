@@ -66,6 +66,9 @@ Security isn’t always taken as seriously as it should be. Hackers can cause la
 #### Negative relationship between feature and impact
 Just because you can implement a new feature doesn’t mean you should! Some software engineering teams spend too much time developing new features and updating product capabilities, and not enough time tailoring their existing features to make them safe and reliable. The sad truth is that ethics often take a backseat when this occurs. Businesses need to set the tone for the quality of their products and services and strive to reflect these priorities throughout a software’s lifecycle. 
 
+## My experience with ethics
+
+
 ## Source
 The entire research was founded by information on the following page:
 - https://fellow.app/blog/engineering/engineering-everything-you-need-to-know-about-software-engineering-ethics/
