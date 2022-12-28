@@ -226,6 +226,13 @@ A second test i did was testing if the query was valid and that it would return 
 A third test was for a succesful POST, like creating a user: \
 ![Succesful POST test](https://github.com/Brummer98/Portfolio_BramvHout/blob/a742575a1e738afacd387bff44fce60837746ee2/img/Test_POST_Succes.png)
 
+### Sonarcloud
+![Sonarcloud logo](img/SonarcloudLogo.png)
+
+Sonarcloud is a tool to check your code on any faults or things that you could have done differently. It detects bugs and vulnerabilities and you can get instant feedback from sonarcloud. I implemented sonarcloud into my GitHub repository to let it do an analysis of my code and to see if something went wrong.
+
+![Sonarcloud result](img/SonarcloudResult.png)
+
 ### Business process
 To help improve my profiency for learning outcome ***7: Business process***, i've made a process that shows how a FitOne user adds an item to their diary. It shows how the client functions and also how the system handles what the client does.
 
