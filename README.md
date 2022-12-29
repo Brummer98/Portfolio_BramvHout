@@ -212,6 +212,7 @@ As part of CI testing, i started with creating a ***workflow*** file in my repos
 ![CI - Automated testing on push](img/CI_AutomatedPushGitHubWorkflow.png)
 
 ### Docker
+![Docker logo](img/DockerLogo.png)
 As part of CI/CD i created an environment to set up several servers where my frontend, database and my backend could run on seperate servers. By doing so i increase my proficiency for ***learning outcome 4: CI/CD***. 
 
 ![Docker](img/DockerFitOne.png)
