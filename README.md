@@ -214,7 +214,7 @@ As part of CI testing, i started with creating a ***workflow*** file in my repos
 ### Docker
 As part of CI/CD i created an environment to set up several servers where my frontend, database and my backend could run on seperate servers. By doing so i increase my proficiency for ***learning outcome 4: CI/CD***. 
 
-![Docker](img/DockerFitOne)
+![Docker](img/DockerFitOne.png)
 
 ## Software Quality
 Ofcourse to prove the necessary part for Software Quality, i needed to create a range of tests to show that all of my functionality in FitOne is working fine.
