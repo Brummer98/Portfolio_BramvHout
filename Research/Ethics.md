@@ -66,10 +66,11 @@ Security isn’t always taken as seriously as it should be. Hackers can cause la
 #### Negative relationship between feature and impact
 Just because you can implement a new feature doesn’t mean you should! Some software engineering teams spend too much time developing new features and updating product capabilities, and not enough time tailoring their existing features to make them safe and reliable. The sad truth is that ethics often take a backseat when this occurs. Businesses need to set the tone for the quality of their products and services and strive to reflect these priorities throughout a software’s lifecycle. 
 
-## My view on ethics and cultural differences in Software Engineering
+## My view on ethics in Software Engineering
+As a software engineer you have to take notice of possible consequences while writing your code. As you create code not only for yourself, but also for others, you have to take notice how it effects people using it. So i guess always trying to cover problems and possible consequences should be the standard for every software engineer out there. 
 
 ## My experience with ethics
-
+One of the experiences that i've had was a security issue, where you could use SQL injection to delete or drop an entire table in my database. This was ofcourse an issue as you could use injection to recover personal information from the database, while telling users that their data is in safe hands. This caused trust issues from the users to the system. If you read trough the code of ethics as mentioned above, you can read that in the code is says that a software engineer should create software which benefits the public. My personal project means no harms to the public and is a useful application which everyone can use. Also, by creating this application and thinking of features for the application, thinking about the effect it might have on people is a good thing. As read above, a software engineer should think about ***the quality of life***. I did think about how it could effect someone using the app. In my opinion you should think of what kind of people are going to use your app, and keep someone like that in mind. Based on that, think of what kind of features should be in the app and how it would effect them. Think of privacy, quality of life and how it could effect the environment.
 
 ## Source
 The entire research was founded by information on the following page:
