@@ -219,6 +219,8 @@ For my performance test, i implemented a piece of software called Testmeter, whe
 
 ![Performance testing result](img/PerformanceTest.png)
 
+![Performance test](img/SmartMeterStats.png)
+
 ### Docker
 ![Docker logo](img/DockerLogoNew.png)
 
@@ -303,6 +305,8 @@ Because i make use out of an Agile method that i did a solid research on, which 
 
 ### CI/CD
 ###### You implement a (semi)automated software release process that matches the needs of the project context.
+
+By doing the necessary research on what kind of tests should be done for my project and what kind of tests there are in general. Also by Automating a workflow file that performs my test script(s), testing endpoints in Postman, testing my backend, creating performance and security tests.
 
 ### Cultural differences and ethics
 ###### You recognize and take into account cultural differences when working with multi-site teams, and are aware of ethical aspects in software development
