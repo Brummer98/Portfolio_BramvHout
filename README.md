@@ -213,11 +213,11 @@ As part of CI testing, i started with creating a ***workflow*** file in my repos
 ![CI - Automated testing on push](img/CI_AutomatedPushGitHubWorkflow.png)
 
 ### Performance test with TestMeter
-![Testmeter]()
+![Testmeter](img/SmartLogo.png)
 
 For my performance test, i implemented a piece of software called Testmeter, where i could record my page and test all the functionalities to see how long it would take for an event to take place.
 
-![Performance testing result]()
+![Performance testing result](img/PerformanceTest.png)
 
 ### Docker
 ![Docker logo](img/DockerLogoNew.png)
