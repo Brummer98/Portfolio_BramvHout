@@ -219,13 +219,23 @@ For testing my backend it was necessary to test all of the functionalities in th
 
 ###### Getting all users
 
+![](img/getUsersTest.png)
+
 ###### Adding a new user
+
+![](img/addNewUserTest.png)
 
 ###### Get specific user by id
 
+![](img/getUserWithIDTest.png)
+
 ###### Update a user by id
 
+![](img/updateUserTest.png)
+
 ###### Delete a specific user by id
+
+![](img/deleteUserByIDTest.png)
 
 #### Performance test with TestMeter
 ![Testmeter](img/SmartLogo.png)
