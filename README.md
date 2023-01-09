@@ -196,7 +196,7 @@ By using a Javascript framework like React JS, i help improve my proficiency wit
 For the FitOne application i have made several user stories, requirements and a software architecture diagram. Documentation like such can be found on the ***FitOne software design*** directory. This section is part of proving my proficiency at learning outcome 6: ***Requirements and Design***.
 [Click here to see the file](FitOne/Software_design.md)
 
-### CI/CD
+## CI/CD
 ![CI/CD](https://www.mabl.com/hubfs/CICDBlog.png)
 
 As i've been working with ***GitHub*** - Desktop version, i have been working with different branches. In the CI/CD image above, you can see ***release***
@@ -206,13 +206,28 @@ and ***deploy***. By using GitHub desktop and managing multiple branches, i make
 
 As seen in the above image, i've been pushing several new changes into my branch, proving a part of my proficiency for learning outcome 4: ***CI/CD***.
 
-## CI testing
+### CI
 
 As part of CI testing, i started with creating a ***workflow*** file in my repository of the FitOne project. A workflow file contains a piece of code which runs a type of build. I started with a simple one that runs all of my test files within the backend directory of my project. because i implemented this workflow, it will now cooperate perfeclty fine with ***GitHub Desktop*** everytime a push is made to the main branch. So, every single push will then receive a check because of the workflow file. 
 
 ![CI - Automated testing on push](img/CI_AutomatedPushGitHubWorkflow.png)
 
-### Performance test with TestMeter
+#### CI testing backend CRUD
+For testing my backend it was necessary to test all of the functionalities in the controller, so basically the entire CRUD system. Which means: Adding a new user, updating one, deleting one, searching a specific one and getting all users. All of these functionalities respond with statuscodes. The tests are shown in the below images.
+
+![Succesful run of CRUD backend test](img/CRUDtest.png)
+
+###### Getting all users
+
+###### Adding a new user
+
+###### Get specific user by id
+
+###### Update a user by id
+
+###### Delete a specific user by id
+
+#### Performance test with TestMeter
 ![Testmeter](img/SmartLogo.png)
 
 For my performance test, i implemented a piece of software called Testmeter, where i could record my page and test all the functionalities to see how long it would take for an event to take place.
@@ -221,12 +236,15 @@ For my performance test, i implemented a piece of software called Testmeter, whe
 
 ![Performance test](img/SmartMeterStats.png)
 
-### Docker
+#### Docker
 ![Docker logo](img/DockerLogoNew.png)
 
 As part of CI/CD i created an environment to set up several servers where my frontend, database and my backend could run on seperate servers. By doing so i increase my proficiency for ***learning outcome 4: CI/CD***. 
 
 ![Docker](img/DockerFitOneNew.png)
+
+### CD
+Deployment
 
 ## Software Quality
 Ofcourse to prove the necessary part for Software Quality, i needed to create a range of tests to show that all of my functionality in FitOne is working fine.
