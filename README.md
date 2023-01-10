@@ -322,7 +322,7 @@ So far i've only been working on the frontend of the project. The backend is som
 My frontend has been completed and all of the remaining components that i wanted to design and implement are now complete. After the portfolio assigment and review, i got feedback about not having a backend at all. So, i started working on that right away. By implementing the ***MERN*** concept, i started creating a backend existing out of ***controllers, routes, a connection with mongodb and schemas***. By creating this type of backend, i also created a functional and complete ***CRUD*** system. That means that a user can now be created, edited and deleted. You can also check the details of a user and show a list of all users, simple CRUD! After that is started to de some research on [testing](Research/Testing.md) and [businessprocesses and userstory mapping](Research/BusinessProcesses.md). Currently i'm in the process of testing my backend functions. I already tested all of my endpoints as you can see [here](#ci-testing). Next up is to test all of the backend functions and testing some frontend data.
 
 ##### Version 1.2 ( final )
-After completing my frontend and backend for the FitOne project, i started working on testing all of the backend functionalities using ***Jest*** and ***supertest***. This wasn't a very easy thing to acomplish. A lot of things went sideways and didn't go as planned. I created a workflow file where all of the test files in the backend folder would start. I had to go trough a lot of youtube video's and examples on the internet to finally understand not only the purpose of testing, but also how to properly test functionalities in your project. I tested the entire CRUD system and i works fine. Just to show how many times i tried to make the tests work, here an image of my workflow files:
+After completing my frontend and backend for the FitOne project, i started working on testing all of the backend functionalities using ***Jest*** and ***supertest***. This wasn't a very easy thing to acomplish. A lot of things went sideways and didn't go as planned. I created a workflow file where all of the test files in the backend folder would start. I had to go trough a lot of youtube video's and examples on the internet to finally understand not only the purpose of testing, but also how to properly test functionalities in your project. I tested the entire CRUD system and i works fine. Just to show how many times i tried to make the tests work, here is an image of my workflow files:
 
 ![Times the workflow file ran](img/Workflow.png)
 
@@ -354,13 +354,16 @@ Because i make use out of an Agile method that i did a solid research on, which 
 ### CI/CD
 ###### You implement a (semi)automated software release process that matches the needs of the project context.
 
-By doing the necessary research on what kind of tests should be done for my project and what kind of tests there are in general. Also by Automating a workflow file that performs my test script(s), testing endpoints in Postman, testing my backend, creating performance and security tests.
+By doing the necessary research on what kind of tests should be done for my project and what kind of tests there are in general. Also by Automating a workflow file that performs my test script(s), testing endpoints in Postman, testing my backend, creating performance tests and testing the entire CRUD system. I prove my proficiency for this learning outcome to be ***proficient***.
 
 ### Cultural differences and ethics
 ###### You recognize and take into account cultural differences when working with multi-site teams, and are aware of ethical aspects in software development
 
 By doing the necessary research on Ethics and how it works in the ***IT*** world, i'd say for now that i score ***Beginning*** for this learning outcome. To make sure this score wil go up to proficient, i'd say i have to do an analyze on either the individual- or the group project. 
 The research file can be found [here](Research/Ethics.md).
+
+###### Version 1.2 ( final )
+By doing the necessary research on Ethics and how it works in the ***IT*** world and marking the research file into my own words and giving a perspective about the subject and telling about my own personal excperiences with ethics, i'd say that i score ***proficient*** for this learning outcome.
 
 ### Requirements and design
 ###### You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques
