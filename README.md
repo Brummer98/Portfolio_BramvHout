@@ -290,7 +290,9 @@ Since it had so many code smells and a couple of security risks, i started worki
 
 ![Sonarcloud issues](img/SonarcloudSmells.png)
 
-All of the above shown issues have been resolved.
+All of the above shown issues have been resolved, as you can see in the image below.
+
+![Sonarcloud releases](img/SonarcloudFixed.png)
 
 ### Business process
 To help improve my profiency for learning outcome ***7: Business process***, i've made a process that shows how a FitOne user adds an item to their diary. It shows how the client functions and also how the system handles what the client does.
