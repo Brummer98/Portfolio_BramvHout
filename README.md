@@ -172,6 +172,12 @@ In the first version of this file you could read that i've had chosen Microsoft 
 
 ![MongoDB compass tool](https://github.com/Brummer98/Portfolio_BramvHout/blob/7b54ba42c9e28f65dc46d8b6067e1f64db5aa097/img/MongoDB.png)
 
+###### version 1.2
+
+In the latest version i decided that my mongo database should be hosted on a cloud instead of locally. This because my CI/CD pipeline functions beter with an online cloud based database then a local one. So by doing a small bit of research, i decided to go with ***MongoDB - Atlas*** to host my database on. It was very easy to configure and works like a charm. I did not have to do any big changes to my code, i only had to replace the connnectionstring to the new one.
+
+![MongoDB - Atlas environment](img/MongoDBCloud.png)
+
 #### CRUD
 CRUD stands for ***Create, Read, Update and Delete***. A CRUD system could be used for managing users etc. In the FitOne application, it is used to create users and add products loaded in from an API into a MongoDB scheme. The scheme exists out of a table where all elements are defined. So, a user that registers on the FitOne page needs to fill in the following fields to create an account:
 * Username
