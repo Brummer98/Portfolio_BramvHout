@@ -286,6 +286,12 @@ Sonarcloud is a tool to check your code on any faults or things that you could h
 
 Sonarcloud will perform a analysis everytime a new push has been made to the main branch of the FitOne repository.
 
+Since it had so many code smells and a couple of security risks, i started working on those to make sure that the next time sonarcloud would analyse my project, a ***passed*** would pop up in the screen again.
+
+![Sonarcloud issues](img/SonarcloudSmells.png)
+
+All of the above shown issues have been resolved.
+
 ### Business process
 To help improve my profiency for learning outcome ***7: Business process***, i've made a process that shows how a FitOne user adds an item to their diary. It shows how the client functions and also how the system handles what the client does.
 
