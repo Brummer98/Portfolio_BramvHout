@@ -212,7 +212,7 @@ and ***deploy***. By using GitHub desktop and managing multiple branches, i make
 
 As seen in the above image, i've been pushing several new changes into my branch, proving a part of my proficiency for learning outcome 4: ***CI/CD***.
 
-### CI
+### CI & CD
 
 As part of CI testing, i started with creating a ***workflow*** file in my repository of the FitOne project. A workflow file contains a piece of code which runs a type of build. I started with a simple one that runs all of my test files within the backend directory of my project. because i implemented this workflow, it will now cooperate perfeclty fine with ***GitHub Desktop*** everytime a push is made to the main branch. So, every single push will then receive a check because of the workflow file. 
 
@@ -258,9 +258,6 @@ For my performance test, i implemented a piece of software called Testmeter, whe
 As part of CI/CD i created an environment to set up several servers where my frontend, database and my backend could run on seperate servers. By doing so i increase my proficiency for ***learning outcome 4: CI/CD***. 
 
 ![Docker](img/DockerFitOneNew.png)
-
-### CD
-Deployment
 
 ## Software Quality
 Ofcourse to prove the necessary part for Software Quality, i needed to create a range of tests to show that all of my functionality in FitOne is working fine.
