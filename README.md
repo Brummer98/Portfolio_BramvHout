@@ -246,7 +246,7 @@ For testing my backend it was necessary to test all of the functionalities in th
 #### Performance test with Smartmeter
 ![Testmeter](img/SmartLogo.png)
 
-For my performance test, i implemented a piece of software called Testmeter, where i could record my page and test all the functionalities to see how long it would take for an event to take place.
+For my performance test, i implemented a piece of software called Smartmeter, where i could record my page and test all the functionalities to see how long it would take for an event to take place.
 
 ![Performance testing result](img/PerformanceTest.png)
 
