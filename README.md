@@ -471,10 +471,6 @@ If any of these don't compare to the ones in the products list, we re-calulate t
 
 The livescore is calculated in the frontend of the project, since it doesn't need to be saved in the backend database.
 
-### Software quality 
-
-#### Testing endpoints in Postman
-
 ## Contributors
 
 This project is realized by the following contributors.
