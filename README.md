@@ -144,7 +144,7 @@ The personal page shows all the details about the user, such as:
 * Weight
 * Calories
 
-![Personal page](https://github.com/Brummer98/Portfolio_BramvHout/blob/42ed31c4b8b56014f16bf6b12a511d83164b7ddd/img/Personal.png)
+![Personal page](img/PersonalpageNEW.png)
 
 #### Login - Logout
 This pages only shows two buttons, one for logging in and one for logging out. The login button is a link to the authenticator integrated into FitOne.
@@ -179,24 +179,20 @@ In the latest version i decided that my mongo database should be hosted on a clo
 ![MongoDB - Atlas environment](img/MongoDBCloud.png)
 
 #### CRUD
-CRUD stands for ***Create, Read, Update and Delete***. A CRUD system could be used for managing users etc. In the FitOne application, it is used to create users and add products loaded in from an API into a MongoDB scheme. The scheme exists out of a table where all elements are defined. So, a user that registers on the FitOne page needs to fill in the following fields to create an account:
+CRUD stands for ***Create, Read, Update and Delete***. This specific CRUD system is used for creating/editing and deleting users for FitOne. The system has a connection with the mongo database running on the backend, which makes it able to insert and update users in the sytstem. To create such a user, you can fill in the form, which exists out of:
 * Username
 * Password
 * Age
 * Weight
 * Calories
-* ( Length to be added )
 
-![CRUD system](https://github.com/Brummer98/Portfolio_BramvHout/blob/07a052f315f68e2d7c68112367d0b6665b7763b6/img/CRUD.png)
+![CRUD system](img/CRUDPersonal.png)
 
-Because i am making use of an own build CRUD system, i help improve my proficiency for ***Learning outcome 1: Web application***
+Because i am making use of an own build CRUD system, i help improve my proficiency for ***Learning outcome 1: Web application***.
 
 ### SCRUM
 I've made use of the SCRUM framework for this project and chose GitHub - projects as the tool to help me manage this process.
 [Click here to see the GitHub SCRUM enviroment](https://github.com/users/Brummer98/projects/1/views/1)
-
-### Web application
-By using a Javascript framework like React JS, i help improve my proficiency with ***learning outcome 1: Web application***.
 
 ### Software design
 For the FitOne application i have made several user stories, requirements and a software architecture diagram. Documentation like such can be found on the ***FitOne software design*** directory. This section is part of proving my proficiency at learning outcome 6: ***Requirements and Design***.
