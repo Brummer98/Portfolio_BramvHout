@@ -265,7 +265,7 @@ Unit testing should be done by testing a single function. I did manage to perfor
 I've already did a couple of things to ensure my securty is all good. I implemented Auth0 for authorization. I also implemented Sonarcloud to see essential issues with my code and security hotspots so that those can be fixed. 
 
 #### Regression test
-Regression tests automatically happen after every test. This is because you than test the previous functionalities in your system. 
+Regression tests automatically happen after every test. This is because you than test the previous functionalities in your system. Because i made a workflow file that runs every time a push is made, i automatically test the new functionalities added to the project. So regression testing happens on every single commit that's been psuhed to the project. See [this image](#ci-testing).
 
 #### Docker
 ![Docker logo](img/DockerLogoNew.png)
