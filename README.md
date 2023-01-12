@@ -255,7 +255,11 @@ For my performance test, i implemented a piece of software called Smartmeter, wh
 #### Unit test
 Unit testing should be done by testing a single function. I did manage to perform several tests, but those were integration, security and regression tests. I've spoken to Hans about unit testing and he told me that is was fine without because i already made unit tests in the previous semester. If i were to test my code with unit tests, i would use the Render method to be tested and see of it renders a certain page. I also made a mock function to test something simple.
 
+###### Sum test
+![Sum test](img/SumTest.png)
 
+###### Render test
+![Render test](img/RenderTest.png)
 
 #### Security test
 I've already did a couple of things to ensure my securty is all good. I implemented Auth0 for authorization. I also implemented Sonarcloud to see essential issues with my code and security hotspots so that those can be fixed. 
