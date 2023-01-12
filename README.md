@@ -6,13 +6,13 @@ Written by: ***Bram van Hout***\
 For course(s): ***S-DB-IPS3 & S-DB-GPS3***\
 Class: ***DB-03***\
 Coaches: ***Marc van Grootel, Hans van Heumen***\
-Date: ***30-11-2022***
+Date: ***13-01-2023***
 
 | Version | Date | Current |
 |---|---|---|
 | 1.0 | 03/11/2022 | False |
 | 1.1 | 30/11/2022 | False |
-| 1.2 | 06/01/2023 | True |
+| 1.2 | 13/01/2023 | True |
 
 ## Table of contents
 * [Introduction](#introduction)
@@ -208,7 +208,7 @@ and ***deploy***. By using GitHub desktop and managing multiple branches, i make
 
 As seen in the above image, i've been pushing several new changes into my branch, proving a part of my proficiency for learning outcome 4: ***CI/CD***.
 
-### CI & CD
+### CI / CD Automated workflow file
 
 As part of CI testing, i started with creating a ***workflow*** file in my repository of the FitOne project. A workflow file contains a piece of code which runs a type of build. I started with a simple one that runs all of my test files within the backend directory of my project. because i implemented this workflow, it will now cooperate perfeclty fine with ***GitHub Desktop*** everytime a push is made to the main branch. So, every single push will then receive a check because of the workflow file. 
 
@@ -246,8 +246,6 @@ For my performance test, i implemented a piece of software called Smartmeter, wh
 
 ![Performance testing result](img/PerformanceTest.png)
 
-![Performance test](img/SmartMeterStats.png)
-
 #### Unit test
 Unit testing should be done by testing a single function. I did manage to perform several tests, but those were integration, security and regression tests. I've spoken to Hans about unit testing and he told me that is was fine without because i already made unit tests in the previous semester. If i were to test my code with unit tests, i would use the Render method to be tested and see of it renders a certain page. I also made a mock function to test something simple.
 
@@ -258,10 +256,10 @@ Unit testing should be done by testing a single function. I did manage to perfor
 ![Render test](img/RenderTest.png)
 
 #### Security test
-I've already did a couple of things to ensure my securty is all good. I implemented Auth0 for authorization. I also implemented Sonarcloud to see essential issues with my code and security hotspots so that those can be fixed. 
+I've already did a couple of things to ensure my securty is all good. I implemented Auth0 for authorization. I also implemented Sonarcloud to see essential issues with my code and security hotspots so that those can be fixed. I talked to Hans about this and he told me that it was fine as it was.
 
 #### Regression test
-Regression tests automatically happen after every test. This is because you than test the previous functionalities in your system. Because i made a workflow file that runs every time a push is made, i automatically test the new functionalities added to the project. So regression testing happens on every single commit that's been pushed to the project. 
+Regression tests automatically happen after every test. This is because you then test the previous functionalities in your system. Because i made a workflow file that runs every time a push is made, i automatically test the new functionalities added to the project. So regression testing happens on every single commit that's been pushed to the project. 
 
 ![Regression test](img/RegressionTest.png)
 
@@ -338,18 +336,28 @@ After completing my frontend and backend for the FitOne project, i started worki
 
 ### What i've learned 
 By creating the design document and going trough all of the elements within the document, i've learned several things:
-* I've learned how to determine what requirements are important for the project to be written down, as well as splitting the requirements into functional- and non functional ones. I aslo managed to set priority to those requirements using MoSCoW.
+* I've learned how to determine what requirements are important for the project to be written down, as well as splitting the requirements into functional- and non functional ones. I also managed to set priority to those requirements using MoSCoW.
 * I've also learned how to develop wireframes to create a view of how the pages roughly are going to look like when the project is finished.
 * I've learned how to create a architecture of the entire project, so you can see what kind of systems and other things are going to be connected to the system.
 * Creating userstories was not really a new thing that i've learned, but i did improve it during semester 3!
+
+###### Version 1.2 ( final )
+Further into the semester, i learned some new things that were really useful, which are:
+* I learned how to work with ***Docker***, which helped me understand why it's a good thing to have systems being split almong different servers. 
+* React JS was something that i did not work with before. I really got to know the language wel and how to properly create a project and components with it. It was really nice and simple to work with and the functionalities within work great. Also, all of the libraries, toolkits and frameworks that you can use alongside React JS are very nice and easy to implement. Which makes it that more greater to work with.
+* Node JS, was also something new for me. It was great for creating my backend and worked wel with the React JS frontend.
+* React JS with Bootstrap was a combination that worked amazing together. I was already familiair with Bootstrap but not combined with React JS for the frontend. The Grid system and all of the amazing components that Bootstrap offers, work great and made my webapp so much easier to build.
+* Security: like auth0 and Sonarcloud. Those are things that now wil stik with me forever. They perform great and help solve a lot of problems. 
+* Testing: Integration, Unit, Security, Performance and Regression. Only unit testing was something that i did in the previous semester. So it was quite the challenge to create all of the other tests. I did manage to work out most of the tests, where i learned a lot of things about it and why it's so important.
+* Code analysis with Sonarcloud. It is such an easy tool to implement into your project and can save you alot of time solving bugs and other issues. I do recommand this to everyone to use. 
+* Testing endpoints in Postman worked really wel and is absolutly a tool that i'm going to use in future projects.
 
 ## My perspective of the learning outcomes
 
 ### Web application
 ###### You design and build user-friendly, full-stack web applications
 
-By doing the necessary research on design and what is best to use for the frontend of my project, by creating userstories, setting up requirements and implementing
-a toolkit such as ***Bootstrap***. I've created a fullstack webapplication based on ***React JS*** and ***Node JS*** for the backend. I'd say that my score for this learning outcome is ***proficient***.
+By doing the necessary research on design and what is best to use for the frontend of my project, by creating userstories, setting up requirements, having a second look at the requirements and userstories and implementing a toolkit such as ***Bootstrap***. I've created a fullstack webapplication based on ***React JS*** and ***Node JS*** for the backend. I'd say that my score for this learning outcome is ***proficient***.
 
 ### Software quality
 ###### You use software tooling and methodology that continuously monitors and improve the software quality during software development
@@ -364,7 +372,7 @@ Because i make use out of an Agile method that i did a solid research on, which 
 ### CI/CD
 ###### You implement a (semi)automated software release process that matches the needs of the project context.
 
-By doing the necessary research on what kind of tests should be done for my project and what kind of tests there are in general. Also by Automating a workflow file that performs my test script(s), testing endpoints in Postman, testing my backend, creating performance tests and testing the entire CRUD system. I prove my proficiency for this learning outcome to be ***proficient***.
+By doing the necessary research on what kind of tests should be done for my project and what kind of tests there are in general. Also by Automating a workflow file that performs my test script(s), testing endpoints in Postman, testing my backend, creating performance tests and testing the entire CRUD system and running servers on Docker. I prove my proficiency for this learning outcome to be ***proficient***.
 
 ### Cultural differences and ethics
 ###### You recognize and take into account cultural differences when working with multi-site teams, and are aware of ethical aspects in software development
