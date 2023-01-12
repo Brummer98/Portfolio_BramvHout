@@ -462,6 +462,10 @@ Two of our team members were frocussed on building scrapers so we could get the 
 #### RestAPI
 The restapi is a backend tool where we can fetch data to be shown on the frontend of the project. The special thing within this RestAPI is that we managed to create a ***wrapper*** to fetch data more easily, instead of working with ***axios*** posts and gets. 
 
+## Architecture
+
+![Architecture](https://github.com/S3-DB03/IsItLive/blob/e5c50229215cf5021e1732ccd5417c0c15dfcb52/img/ArchitectureGP.png)
+
 ### Frontend
 
 #### Design
