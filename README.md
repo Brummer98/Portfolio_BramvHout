@@ -18,9 +18,16 @@ Date: ***13-01-2023***
 * [Introduction](#introduction)
 * [Learning outcomes](#learning-outcomes)
 * [Research](#research)
+* [Feedpulse](#feedpulse)
 * [Courses](#courses)
 * [Software desicions](#software-desicions)
 * [FitOne ( Individual Project )](#fitone--individual-project-)
+* [CI/CD](#cicd)
+* [Software Quality](#software-quality)
+* [Business process](#business-process)
+* [Progress](#progress)
+* [What i've learned](#what-ive-learned)
+* [My perspective of the learning outcomes](#my-perspective-of-the-learning-outcomes)
 * [WoC ( Group Project )](#woc--group-project-)
 
 ## Introduction
