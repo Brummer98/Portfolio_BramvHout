@@ -218,7 +218,7 @@ As part of CI testing, i started with creating a ***workflow*** file in my repos
 
 ![CI - Automated testing on push](img/CI_AutomatedPushGitHubWorkflow.png)
 
-#### CI testing backend CRUD
+#### CI testing backend CRUD / integration tests
 For testing my backend it was necessary to test all of the functionalities in the controller, so basically the entire CRUD system. Which means: Adding a new user, updating one, deleting one, searching a specific one and getting all users. All of these functionalities respond with statuscodes. The tests are shown in the below images.
 
 ![Succesful run of CRUD backend test](img/CRUDtest.png)
@@ -251,6 +251,16 @@ For my performance test, i implemented a piece of software called Smartmeter, wh
 ![Performance testing result](img/PerformanceTest.png)
 
 ![Performance test](img/SmartMeterStats.png)
+
+#### Unit test
+Unit testing should be done by testing a single function. I did manage to perform several tests, but those were integration, security and regression tests. I've spoken to Hans about unit testing and he told me that is was fine without because i already made unit tests in the previous semester. If i were to test my code with unit tests, i would use the Render method to be tested and see of it renders a certain page. I also made a mock function to test something simple.
+
+
+
+#### Security test
+I've already did a couple of things to ensure my securty is all good. I implemented Auth0 for authorization. I also implemented Sonarcloud to see essential issues with my code and security hotspots so that those can be fixed. 
+
+#### Regression test
 
 #### Docker
 ![Docker logo](img/DockerLogoNew.png)
