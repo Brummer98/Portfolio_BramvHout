@@ -471,6 +471,33 @@ If any of these don't compare to the ones in the products list, we re-calulate t
 
 The livescore is calculated in the frontend of the project, since it doesn't need to be saved in the backend database.
 
+## Requirements and userstories
+
+#### Requirements
+
+###### Functional
+* Importing the data (Must have)
+* Read the data (Must have)
+* Synchronise data with the retailers data (Must have)
+* An User has to be able to create an account (Could have)
+* An User has to be able to login (Could have)
+* Switch pages to other languages (Could have)
+* Store proucts in the database (Could have)
+
+###### Non-Functional
+* Displaying the synced data in graphs.
+* The data synchronisation has to be done within 5 minutes.
+
+#### Userstories
+* As supplier I want to be able to select a retailer to be able to check an overview of the products (must)
+* As an user I want to be able to get the result to know if my products are online with percentage of how many are online (must)
+* As an user I want to to have an graph on the overview for a quick check to see how many of my products are online (must)
+* As an user I have to be able to login to have access to my credentials (should)
+* As an user I want to be able to create an account and get access to the application (should)
+* As an user I want to be able to set the application to another language when I'm not capable enough to read/understand English (should)
+* As an user I want to be able to compare multiple retailers, so I can see which retailer performs best in getting the products live (could)
+* As an user I wnat to be able to import products to synchronise (could)
+
 ## Contributors
 
 This project is realized by the following contributors.
