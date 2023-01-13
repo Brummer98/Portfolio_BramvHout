@@ -14,6 +14,10 @@ Date: ***13-01-2023***
 | 1.1 | 30/11/2022 | False |
 | 1.2 | 13/01/2023 | True |
 
+## Zip files
+
+To find the zip files containing all of the code for the IP and GP projects, see [Downloads](Downloads)
+
 ## Table of contents
 * [Introduction](#introduction)
 * [Learning outcomes](#learning-outcomes)
