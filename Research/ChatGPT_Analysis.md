@@ -61,3 +61,8 @@ is not in stake here.
 
 I find it an interesting piece of technology, but i would not use it for solving code issues or create full on documents. I think the chatbot should be handled with care
 and be used for the greater good. I might just use it once, for fun and interest, but no more. 
+
+## Sources
+* https://www.nbcnews.com/tech/tech-news/new-york-city-public-schools-ban-chatgpt-devices-networks-rcna6444
+* https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned
+* https://dataethics.eu/testing-chatgpts-ethical-readiness/
